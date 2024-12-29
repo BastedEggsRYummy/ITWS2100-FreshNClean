@@ -1,0 +1,141 @@
+WEBVTT
+
+1 "Voynovich, Matthew" (2917259520)
+00:11:06.540 --> 00:11:12.622
+Yeah, should we like start the meeting since NO one.
+
+2 "Baimel, Jackson" (1295908864)
+00:11:12.622 --> 00:11:16.042
+Else has been showing up? Yeah.
+
+3 "Voynovich, Matthew" (2917259520)
+00:11:16.042 --> 00:11:39.321
+I think we should just get started. Okay, sure. I've worked, I've almost finished most of the stuff from, like scrum/sprint one. I haven't fully finished it, which is why I haven't pushed stuff yet, but I'll have that done for sure this weekend, like guaranteed and then I'll start working on the other stuff.
+
+4 "Hargreaves, Harry" (3829802496)
+00:11:39.321 --> 00:11:44.279
+Yeah, Sounds good. Is there.
+
+5 "Voynovich, Matthew" (2917259520)
+00:11:44.279 --> 00:11:49.235
+Is there anything I should help with with for that? Did you do.
+
+6 "Hargreaves, Harry" (3829802496)
+00:11:49.235 --> 00:11:51.859
+Is the styling for your login form yet? Yeah.
+
+7 "Voynovich, Matthew" (2917259520)
+00:11:51.859 --> 00:12:01.500
+Good, it should be pushed, does it not? Yeah, NO, I I didn't check it, that's all. Okay, I'll just copy your styling over to the, like.
+
+8 "Hargreaves, Harry" (3829802496)
+00:12:01.500 --> 00:12:03.580
+Performant and create a.
+
+9 "Voynovich, Matthew" (2917259520)
+00:12:03.580 --> 00:12:20.719
+Now. Oh, I already did that. Oh, you did it? Sick. Okay. I'll look at all that then. I I'm just reworking the tables so I separate the, like, other accounts and I was look I was looking in more about the session data and playing around with.
+
+10 "Voynovich, Matthew" (2917259520)
+00:12:20.719 --> 00:12:35.643
+That. So, that's all I've been doing. But otherwise, I should be done with everything from sprint one this week and then I can start working on whatever we need me to be doing.
+
+11 "Hargreaves, Harry" (3829802496)
+00:12:35.643 --> 00:12:51.779
+So yeah, I did the, some more styling and like just issue off, but then I had a question, what is, so for documentation, like what, what does that include? Like.
+
+12 "Voynovich, Matthew" (2917259520)
+00:12:51.779 --> 00:12:55.419
+Is that like how like to use the website? Right.
+
+13 "Hargreaves, Harry" (3829802496)
+00:12:55.419 --> 00:13:04.122
+Yeah sorry. We have in like the in the projects page, the, like, start creating documentation.
+
+14 "Voynovich, Matthew" (2917259520)
+00:13:04.122 --> 00:13:18.358
+Like wow, what what does that like include? I thought that that included how to use the website and then I'd assume a little bit of that documentation stuff was like the legal stuff that.
+
+15 "Baimel, Jackson" (1295908864)
+00:13:18.358 --> 00:13:28.200
+Jackson was supposed to be working on? Yeah, yeah. I have a separate folder right now when I push that I can move it into the documentation folder just to have a viewer.
+
+16 "Voynovich, Matthew" (2917259520)
+00:13:28.200 --> 00:13:39.138
+Guys but yeah that's yeah. Okay. We should probably start a read me for like how to actually use the website. I can add like how to set up the database.
+
+17 "Hargreaves, Harry" (3829802496)
+00:13:39.138 --> 00:13:42.022
+So.
+
+18 "Voynovich, Matthew" (2917259520)
+00:13:42.022 --> 00:13:45.477
+Oh, the same way that like Flaka asked us to last.
+
+19 "Hargreaves, Harry" (3829802496)
+00:13:45.477 --> 00:13:52.579
+You're Wait so then what how wait, how to use the, you have to include how to set up the.
+
+20 "Voynovich, Matthew" (2917259520)
+00:13:52.579 --> 00:14:25.057
+The basis for the documentation. I I can do that. I I'm just saying that we should probably have a read me in the base level directory so that on the github it shows up and it'll be like obviously for specific directions right now because it's not a finished product, but it would be directions on how to use it, and I'll probably put in like a resources folder the SQL file for creating the databases and tables, and I'll just explain what those tables are and like.
+
+21 "Hargreaves, Harry" (3829802496)
+00:14:25.057 --> 00:14:47.429
+Okay, so I guess I can, I can start the documentation. So, ok, yeah, I know you mean that. And then also I can do the email and then that also would go in the, and like that contact us so like if I don't know if anybody started that, I don't think that's here, but I can like do.
+
+22 "Voynovich, Matthew" (2917259520)
+00:14:47.429 --> 00:14:52.329
+The email and the contact us page. Alright, that sounds good.
+
+23 "Baimel, Jackson" (1295908864)
+00:14:52.329 --> 00:15:14.789
+Yeah, for for my portion, I I did another round of the, what is it, the stand up documentation, so got big shakes there. I also need a whole bunch of the legal stuff. I haven't I'm in the same boat as Matthew where it's like just a giant blob of like documents and I haven't pushed it yet, but.
+
+24 "Baimel, Jackson" (1295908864)
+00:15:14.789 --> 00:15:30.449
+One of the things I did come across that we're definitely gonna have to do and that is good and answers a lot of our questions is we're gonna have to create some sort of a general community guidelines, which is in the legal section, but it's like a more low key general.
+
+25 "Baimel, Jackson" (1295908864)
+00:15:30.449 --> 00:16:02.612
+Document and this one that Uber eats have or Uber has covers a lot of the questions that we were gonna be asked in our original presentation. So, that'll be good. There's also a lot of little ones that I think could be easy to go, to throw together and add on there. Like there's one here about like consumer health data privacy, like data stuff, there's individual things we decide to use cookies or incorporate like feedback or even have space for.
+
+26 "Voynovich, Matthew" (2917259520)
+00:16:02.612 --> 00:16:04.394
+Guys which we're probably not gonna do, but it's all.
+
+27 "Baimel, Jackson" (1295908864)
+00:16:04.394 --> 00:16:35.853
+There, yeah. The big thing though is the community guidelines because that is, that answers a lot of logistical questions as well and one specific thing I wanna add that they have at the very bottom of their document is quote, drivers and delivery people are not agents, actual accessible or otherwise or employees of uber. They are independent 3rd party providers, which I think we should do as well. The drivers are not employees.
+
+28 "Voynovich, Matthew" (2917259520)
+00:16:35.853 --> 00:16:39.854
+Is their contractors, right? Which changes how we treat.
+
+29 "Baimel, Jackson" (1295908864)
+00:16:39.854 --> 00:17:07.970
+Them and how we interact with them. So, yeah, a lot of cool stuff there. I'll make sure to push that. That should be done by the end of this weekend. Most of it is already there. I just finished up going through some of the other ones cause there's a shit a ton of thumbs to go through. So, that is. Amanda I know you just got here. Do you wanna say anything or are you just like.
+
+30 "Ruan, Amanda" (634384384)
+00:17:07.970 --> 00:17:16.971
+You're good. I'm good. I haven't gotten much done this week, so I'll try to get some work in.
+
+31 "Baimel, Jackson" (1295908864)
+00:17:16.971 --> 00:17:24.551
+Time this weekend. Cool, awesome. I guess we're.
+
+32 "Voynovich, Matthew" (2917259520)
+00:17:24.551 --> 00:17:48.592
+Pretty much good then? I think so. I'll text if I have any questions about anything else. I'll definitely have my stuff done this weekend, but or like the sprint one stuff this weekend completely finished off, but other than that, I think we're all.
+
+33 "Hargreaves, Harry" (3829802496)
+00:17:48.592 --> 00:17:57.813
+In a decent place. Yeah, totally agree. Okay, well, sounds good.
+
+34 "Voynovich, Matthew" (2917259520)
+00:17:57.813 --> 00:17:59.875
+Alright, see you guys.
+
+35 "Ruan, Amanda" (634384384)
+00:17:59.875 --> 00:18:09.396
+Yeah, see it? Yep. Bye. Bye.

@@ -1,0 +1,149 @@
+WEBVTT
+
+1 "Voynovich, Matthew" (3659101696)
+00:03:54.984 --> 00:04:15.406
+Do we wanna start the meeting or should we wait a little bit longer?
+
+2 "Hargreaves, Harry" (25221376)
+00:04:15.406 --> 00:04:20.261
+I think we should start.
+
+3 "Voynovich, Matthew" (3659101696)
+00:04:20.261 --> 00:04:41.000
+Okay, I can go 1st. I haven't published any of the changes yet, but today I've been looking through and making sure that the login and, like, create account pages still work. They have on my local host, I was.
+
+4 "Voynovich, Matthew" (3659101696)
+00:04:41.000 --> 00:04:57.659
+I haven't tested them on, the VM yet. I was checking to make sure that there were NO errors in the 1st place on the local host. I will try and figure out what the VM errors are this week and I've also been working on.
+
+5 "Voynovich, Matthew" (3659101696)
+00:04:57.659 --> 00:05:20.567
+The driver's location stuff where I'll update them every minute or so and then have it clean up the database every two or 3 min with cron jobs. The cron jobs I've been trying to figure out and that's been taken the most time, but that's my work for the week.
+
+6 "Hargreaves, Harry" (25221376)
+00:05:20.567 --> 00:05:52.727
+I pretty much I've pretty much I think I finished the documentation but I still need the information, like the legal information so for Jackson like whenever you're ready, it's in like the review file, and then also I kind of forgot, we don't have an account for like a laundry matt, right? I'm pretty sure, right?
+
+7 "Voynovich, Matthew" (3659101696)
+00:05:52.727 --> 00:06:07.365
+No, I I just made a provider which could be an actual laundry map because I gave the option for a business name and you didn't need to include a last name. So like they could, but I just I just made the account synonymous with a driver.
+
+8 "Hargreaves, Harry" (25221376)
+00:06:07.365 --> 00:06:17.307
+Okay, then, yeah, yeah, it's pretty good. But, ISO was kind of unsure of what to include, so like that's like when I when we do the pull request.
+
+9 "Hargreaves, Harry" (25221376)
+00:06:18.143 --> 00:06:35.467
+I guess like someone should and then Jackson, whatever you want to add it, it's in the documentation branch. And then also I guess in the coming week I'll I'll I'll do whatever like I guess we need for that, like before the midterm presentation.
+
+10 "Baimel, Jackson" (947367424)
+00:06:35.467 --> 00:06:55.499
+Awesome. I haven't done a whole lot. I, I, I just have to upload the other stuff and continue work on the the legal stuff. I do want to finish up at least the community guidelines so we have something.
+
+11 "Baimel, Jackson" (947367424)
+00:06:55.499 --> 00:07:13.865
+And Yeah released the 1st draft of it. That's it for me. I gotta upload everything though, so that's what I'm doing.
+
+12 "Yau, Caitlin" (2590323968)
+00:07:15.569 --> 00:07:37.247
+For me, I I'd been playing around with like the styling of the homepage and I was looking also at Cole's page. I was playing around with the styling for that and implementing the head and footer.
+
+13 "Ruan, Amanda" (1222370048)
+00:07:37.247 --> 00:07:58.069
+I played around with trying to get, exams to work and it didn't work, but I found like two other alternatives that worked on my Mac, so I've been using that and I just made a protocost for the CSS for the profile page, so someone put up.
+
+14 "Ruan, Amanda" (1222370048)
+00:07:58.069 --> 00:08:20.003
+Maybe not merged yet because my branches are a bit black. You have to go in a certain order but yeah also added the header and footer to the the battles page and added the front end for the contact form. So yeah, if people could approve that, that'd be great.
+
+15 "Voynovich, Matthew" (3659101696)
+00:08:20.003 --> 00:08:22.785
+Yeah, I'll take a look at that.
+
+16 "Ruan, Amanda" (1222370048)
+00:08:22.785 --> 00:08:30.023
+Alright, thank you.
+
+17 "Hargreaves, Harry" (25221376)
+00:08:30.023 --> 00:08:34.442
+Alright, anybody have anything else they want to add? Over you.
+
+18 "Voynovich, Matthew" (3659101696)
+00:08:34.442 --> 00:08:54.441
+Is there a day that we wanna meet up to like do the like slide show potentially or whatnot? Because the presentations on Friday, or do we wanna just do it separately?
+
+19 "Baimel, Jackson" (947367424)
+00:08:54.441 --> 00:08:58.440
+Okay.
+
+20 "Ruan, Amanda" (1222370048)
+00:08:58.440 --> 00:09:05.642
+What do you mean by like do the slideshow? Like I'm saying like, I don't know if we're, if we wanna.
+
+21 "Voynovich, Matthew" (3659101696)
+00:09:05.642 --> 00:09:24.781
+Like in person meet up to talk about how we're gonna split it up and like who's gonna talk about what and figure that out, like how we did for the project proposal or if we're just gonna have everyone kind of do their own slides on, and just have them take those slides that they create.
+
+22 "Ruan, Amanda" (1222370048)
+00:09:24.781 --> 00:09:34.380
+We can mute up. When is everyone free?
+
+23 "Voynovich, Matthew" (3659101696)
+00:09:34.380 --> 00:09:49.322
+I'm free on Wednesday I'm free after two, and then Thursday I'm free after six.
+
+24 "Ruan, Amanda" (1222370048)
+00:09:49.322 --> 00:09:58.059
+I think Wednesday one's better for me. I'm also free after too.
+
+25 "Hargreaves, Harry" (25221376)
+00:09:58.059 --> 00:10:04.595
+I think I'm the same free time like times as Matthew.
+
+26 "Baimel, Jackson" (947367424)
+00:10:04.595 --> 00:10:11.463
+I got lab from two to four, but i'm free on Wednesday after that as well.
+
+27 "Yau, Caitlin" (2590323968)
+00:10:11.463 --> 00:10:14.181
+Yeah, I'm pretty after four.
+
+28 "Voynovich, Matthew" (3659101696)
+00:10:14.181 --> 00:10:21.903
+Okay, so meeting at four then or like 04:30 whenever.
+
+29 "Ruan, Amanda" (1222370048)
+00:10:21.903 --> 00:10:24.002
+Yeah, that works.
+
+30 "Voynovich, Matthew" (3659101696)
+00:10:24.002 --> 00:10:26.340
+Okay, sounds good.
+
+31 "Hargreaves, Harry" (25221376)
+00:10:26.340 --> 00:10:29.524
+We can, we should send it in the chat so quickly.
+
+32 "Voynovich, Matthew" (3659101696)
+00:10:29.524 --> 00:10:33.742
+Yeah. That sounds good.
+
+33 "Hargreaves, Harry" (25221376)
+00:10:33.742 --> 00:10:35.559
+Okay.
+
+34 "Voynovich, Matthew" (3659101696)
+00:10:35.559 --> 00:10:40.682
+I don't think there's anything else that I have to add.
+
+35 "Hargreaves, Harry" (25221376)
+00:10:40.682 --> 00:10:41.421
+Yeah.
+
+36 "Voynovich, Matthew" (3659101696)
+00:10:45.381 --> 00:10:51.563
+Alright, I guess I'll see you guys when we have the quiz.
+
+37 "Ruan, Amanda" (1222370048)
+00:10:51.563 --> 00:11:06.540
+Oh, yep, goodbye. Bye.

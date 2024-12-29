@@ -1,0 +1,53 @@
+WEBVTT
+
+1 "Hargreaves, Harry" (1525161216)
+00:09:28.812 --> 00:09:33.293
+Should we just start?
+
+2 "Baimel, Jackson" (2903919616)
+00:09:33.293 --> 00:10:05.489
+I said we do. Sorry, I said we do, yeah. You might not come so I guess I'll go 1st. So this past week I honestly haven't done a whole lot, but my plan is to start stuff for sprint three and yeah last sprint so I'll be finishing up the last batch of the documents we just create.
+
+3 "Baimel, Jackson" (2903919616)
+00:10:05.489 --> 00:10:27.309
+I'm also gonna compile a list of the frequently asked questions, make a page for that, and also I'm gonna work with Harry to make all of the documents not only be like on the GitHub but also have pages that people can go and see and we can put up during your presentation.
+
+4 "Hargreaves, Harry" (1525161216)
+00:10:27.309 --> 00:10:41.968
+Yeah, I started working on those pages like the HTML and CSS and I will continue to do that in the coming week.
+
+5 "Voynovich, Matthew" (4266344448)
+00:10:41.968 --> 00:11:14.449
+I've been working on the profile page functionality, so I've been working on changing email the more importantly, I've been working on the profile image and getting that uploading and working because i'm storing it as a file path, so I have to make it actually upload to our VM and then what not and then I'm figuring out still whether I want to have like the absolute path to it from our VM or a relative path in the database.
+
+6 "Voynovich, Matthew" (4266344448)
+00:11:14.449 --> 00:11:27.004
+And I'm figuring that out and then just figuring out other functionality things that I could implement.
+
+7 "Yau, Caitlin" (3532659712)
+00:11:27.004 --> 00:11:39.860
+I'm continue to work on the history page. I'm almost done with it. I just need to style it properly.
+
+8 "Ruan, Amanda" (2298312448)
+00:11:39.860 --> 00:12:00.362
+I'm working on the contact form. I think I'm done with the P PHP for that. I just need to test it. So yeah.
+
+9 "Hargreaves, Harry" (1525161216)
+00:12:00.362 --> 00:12:05.963
+Yeah, sounds good. Does anybody have anything else they want to add.
+
+10 "Voynovich, Matthew" (4266344448)
+00:12:05.963 --> 00:12:14.020
+No, I don't. I'm good on doing it here.
+
+11 "Hargreaves, Harry" (1525161216)
+00:12:14.020 --> 00:12:18.126
+Alright, well, see you guys.
+
+12 "Ruan, Amanda" (2298312448)
+00:12:18.126 --> 00:12:19.883
+Come on.
+
+13 "Hargreaves, Harry" (1525161216)
+00:12:19.883 --> 00:12:22.199
+Bye.

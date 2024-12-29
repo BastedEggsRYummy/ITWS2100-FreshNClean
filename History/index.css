@@ -1,0 +1,96 @@
+h1 {
+    text-align: center;
+    margin-top: 50px !important;
+    margin-bottom: 30px !important;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 75%;
+    margin-bottom: 50px !important;
+}
+  
+td, th {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.centered-table {
+    margin: auto; /* Centers the table horizontally */
+    border-collapse: collapse; /* Optional: makes borders look nicer */
+}
+
+.entry {
+    cursor: pointer;
+}
+
+.centered-table th, .centered-table td {
+    padding: 10px; /* Adds spacing inside table cells */
+}
+
+/* Make html and body take full height */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* Flexbox layout for body */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Main content should grow to fill space */
+main {
+    flex: 1; /* This makes main take up available space */
+}
+
+/* Full-screen overlay with semi-transparent background */
+.popup {
+    display: none; /* Hidden by default */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Ensure it sits above other elements */
+}
+
+/* Centered popup content */
+.popup-content {
+    position: relative; /* Needed for .close positioning */
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    max-width: 500px;
+    text-align: left;
+}
+
+/* Close button styles */
+.close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 24px;
+    color: #333;
+    cursor: pointer;
+}
+
+/* Optional: style on hover */
+.close:hover {
+    color: #999;
+}
+
+#popup {
+    display: none; /* Hide the popup initially */
+}

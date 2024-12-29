@@ -1,0 +1,1005 @@
+WEBVTT
+
+1 "Krushel, Cole" (2616253440)
+00:00:40.939 --> 00:00:51.297
+Okay, Hello.
+
+2 "Hargreaves, Harry" (799928832)
+00:00:51.297 --> 00:00:54.807
+Can you hear me? Yeah.
+
+3 "Baimel, Jackson" (2601033216)
+00:00:54.807 --> 00:01:03.503
+Can hear you, Awesome, well how.
+
+4 "Krushel, Cole" (2616253440)
+00:01:03.503 --> 00:01:15.831
+How's our, how's our sprint been going? I know we haven't exactly said any sprint goals yet. Anyone do anything? No.
+
+5 "Baimel, Jackson" (2601033216)
+00:01:15.831 --> 00:01:25.480
+I know I haven't done anything yet also the transcripts so you can edit.
+
+6 "Krushel, Cole" (2616253440)
+00:01:25.480 --> 00:01:27.568
+That.
+
+7 "Baimel, Jackson" (2601033216)
+00:01:27.568 --> 00:01:30.500
+Yeah.
+
+8 "Yau, Caitlin" (1413769216)
+00:01:30.500 --> 00:01:39.183
+Do we have a milestone we have to meet? Or NO? I mean.
+
+9 "Baimel, Jackson" (2601033216)
+00:01:39.183 --> 00:01:44.526
+We should set a, like a goal for the entire sprint, so.
+
+10 "Hargreaves, Harry" (799928832)
+00:01:44.526 --> 00:01:48.847
+Yeah. Maybe we.
+
+11 "Baimel, Jackson" (2601033216)
+00:01:48.847 --> 00:02:02.963
+You can do that quickly, yeah, if you wanted to. And you want to use the the like the github stuff, right? Like the board and NO that's fine, but for the.
+
+12 "Krushel, Cole" (2616253440)
+00:02:02.963 --> 00:02:11.288
+But we probably should, yeah. So he can see it, but.
+
+13 "Hargreaves, Harry" (799928832)
+00:02:11.288 --> 00:02:16.280
+Is that like what like the projects page again? Yeah.
+
+14 "Krushel, Cole" (2616253440)
+00:02:16.280 --> 00:02:18.226
+Oh.
+
+15 "Baimel, Jackson" (2601033216)
+00:02:18.226 --> 00:02:19.965
+Hello. Hi.
+
+16 "Voynovich, Matthew" (1590160128)
+00:02:19.965 --> 00:02:24.626
+Yeah.
+
+17 "Baimel, Jackson" (2601033216)
+00:02:24.626 --> 00:02:26.429
+Okay.
+
+18 "Hargreaves, Harry" (799928832)
+00:02:26.429 --> 00:02:28.408
+Yeah.
+
+19 "Krushel, Cole" (2616253440)
+00:02:28.408 --> 00:02:46.287
+I mean I, I opened the branch for the search page kind of something. I wrote I wrote like a little bit, but it doesn't have much right now.
+
+20 "Baimel, Jackson" (2601033216)
+00:02:46.287 --> 00:02:48.293
+That's good. Is there a list.
+
+21 "Hargreaves, Harry" (799928832)
+00:02:48.293 --> 00:02:52.349
+So things that we had to do for less from meetings.
+
+22 "Voynovich, Matthew" (1590160128)
+00:02:52.349 --> 00:02:59.507
+I think the general outline was talk about what we did and then what we're planning on doing. Yeah.
+
+23 "Krushel, Cole" (2616253440)
+00:02:59.507 --> 00:03:00.529
+And that's a.
+
+24 "Voynovich, Matthew" (1590160128)
+00:03:00.529 --> 00:03:02.521
+About it. We should.
+
+25 "Krushel, Cole" (2616253440)
+00:03:02.521 --> 00:03:05.585
+Actually make like a projects page with this.
+
+26 "Voynovich, Matthew" (1590160128)
+00:03:05.585 --> 00:03:31.462
+It sounded like he wanted some sort of plan for like the current sprint or whatever. So, I don't know if we have to, if we need that by today, but like at some point we should just write down what we're trying to accomplish like this month or like I guess until October like 20th. Yes.
+
+27 "Krushel, Cole" (2616253440)
+00:03:31.462 --> 00:03:34.258
+Like the midterm.
+
+28 "Hargreaves, Harry" (799928832)
+00:03:34.258 --> 00:03:37.890
+The projects page right now.
+
+29 "Voynovich, Matthew" (1590160128)
+00:03:37.890 --> 00:03:40.829
+Sure yeah we can.
+
+30 "Krushel, Cole" (2616253440)
+00:03:40.829 --> 00:03:46.743
+Put items on them.
+
+31 "Hargreaves, Harry" (799928832)
+00:03:46.743 --> 00:03:49.627
+And we should also.
+
+32 "Voynovich, Matthew" (1590160128)
+00:03:49.627 --> 00:04:02.483
+Probably like create a doc with like a formal write up for like what our sprint thing is just in case he asks probably.
+
+33 "Baimel, Jackson" (2601033216)
+00:04:02.483 --> 00:04:06.281
+That should be good.
+
+34 "Hargreaves, Harry" (799928832)
+00:04:06.281 --> 00:04:10.806
+I'm Eyes the eyes though?
+
+35 "Krushel, Cole" (2616253440)
+00:04:10.806 --> 00:04:13.422
+I don't know which one are you using?
+
+36 "Hargreaves, Harry" (799928832)
+00:04:13.422 --> 00:04:20.533
+I'm gonna I create a project page for and then there's one that's like for future releases of.
+
+37 "Hargreaves, Harry" (799928832)
+00:04:20.533 --> 00:04:23.662
+Homework. Sure.
+
+38 "Baimel, Jackson" (2601033216)
+00:04:23.662 --> 00:04:27.935
+Yeah.
+
+39 "Hargreaves, Harry" (799928832)
+00:04:27.935 --> 00:04:29.919
+Okay.
+
+40 "Baimel, Jackson" (2601033216)
+00:04:29.919 --> 00:04:30.703
+This is.
+
+41 "Krushel, Cole" (2616253440)
+00:04:30.703 --> 00:04:44.103
+No worries.
+
+42 "Hargreaves, Harry" (799928832)
+00:04:44.103 --> 00:04:48.699
+You guys can see it. Yeah this.
+
+43 "Krushel, Cole" (2616253440)
+00:04:48.699 --> 00:04:52.941
+Like a roadmap well.
+
+44 "Voynovich, Matthew" (1590160128)
+00:04:52.941 --> 00:04:56.959
+Sure yeah.
+
+45 "Hargreaves, Harry" (799928832)
+00:04:56.959 --> 00:05:07.631
+Jason stuff. Okay.
+
+46 "Ruan, Amanda" (1103669760)
+00:05:07.631 --> 00:05:09.301
+Okay.
+
+47 "Hargreaves, Harry" (799928832)
+00:05:09.301 --> 00:05:10.651
+Right.
+
+48 "Baimel, Jackson" (2601033216)
+00:05:10.651 --> 00:05:15.898
+That's all cool, oh.
+
+49 "Baimel, Jackson" (2601033216)
+00:05:16.431 --> 00:05:19.312
+Sorry. It's the one.
+
+50 "Ruan, Amanda" (1103669760)
+00:05:19.312 --> 00:05:21.933
+That just says visionary more types, right? Yeah.
+
+51 "Voynovich, Matthew" (1590160128)
+00:05:21.933 --> 00:05:26.474
+Yeah. Okay, ok.
+
+52 "Hargreaves, Harry" (799928832)
+00:05:26.474 --> 00:05:32.399
+I'll add some stuff to the status board, I guess. Are we have.
+
+53 "Voynovich, Matthew" (1590160128)
+00:05:32.399 --> 00:05:36.453
+Giving the thing like recording our words and transcribing it.
+
+54 "Baimel, Jackson" (2601033216)
+00:05:36.453 --> 00:05:39.534
+If that's going on.
+
+55 "Krushel, Cole" (2616253440)
+00:05:39.534 --> 00:05:50.995
+Yeah, do we.
+
+56 "Voynovich, Matthew" (1590160128)
+00:05:50.995 --> 00:06:02.055
+You want me to send in like a document just in case we want to actually write down the like September sprint?
+
+57 "Voynovich, Matthew" (1590160128)
+00:06:02.055 --> 00:06:04.810
+And.
+
+58 "Krushel, Cole" (2616253440)
+00:06:04.810 --> 00:06:09.335
+I mean we could just use the, the project page.
+
+59 "Voynovich, Matthew" (1590160128)
+00:06:09.335 --> 00:06:13.560
+I I know I'm just saying I don't know if Callahan wants something more formal than that.
+
+60 "Ruan, Amanda" (1103669760)
+00:06:13.560 --> 00:06:14.935
+Oh.
+
+61 "Krushel, Cole" (2616253440)
+00:06:14.935 --> 00:06:18.195
+I don't know either.
+
+62 "Hargreaves, Harry" (799928832)
+00:06:18.195 --> 00:06:27.592
+I think. I said.
+
+63 "Voynovich, Matthew" (1590160128)
+00:06:27.592 --> 00:06:39.065
+Into just in case, I don't think we need to like, we can just, someone can just transcribe everything that's on the like projects eventually if we really need to.
+
+64 "Hargreaves, Harry" (799928832)
+00:06:39.065 --> 00:06:45.456
+Okay, please.
+
+65 "Krushel, Cole" (2616253440)
+00:06:45.456 --> 00:06:52.656
+It's very new.
+
+66 "Hargreaves, Harry" (799928832)
+00:06:52.656 --> 00:06:59.058
+I'm, I'll open the proposal and add some of the stuff we had from that. Okay.
+
+67 "Voynovich, Matthew" (1590160128)
+00:06:59.058 --> 00:07:13.672
+In regards to like what we're gonna say we're doing, like, what are our priorities for this? Like or like what are we trying to say that we're gonna do this month? Really.
+
+68 "Krushel, Cole" (2616253440)
+00:07:13.672 --> 00:07:17.332
+It's very like beginning, oh sorry. That's.
+
+69 "Yau, Caitlin" (1413769216)
+00:07:17.332 --> 00:07:19.711
+Okay, you can go. I was just thinking this is like.
+
+70 "Krushel, Cole" (2616253440)
+00:07:19.711 --> 00:07:26.939
+We're beginning the sprint now, we're like setting goals.
+
+71 "Yau, Caitlin" (1413769216)
+00:07:26.939 --> 00:07:33.395
+In terms of the project, I think we should at least just build the HTML and CSS. Yeah.
+
+72 "Voynovich, Matthew" (1590160128)
+00:07:33.395 --> 00:07:36.857
+Okay, so we should just have like a basic front end, doesn't have to.
+
+73 "Yau, Caitlin" (1413769216)
+00:07:36.857 --> 00:07:39.289
+Ever polished.
+
+74 "Krushel, Cole" (2616253440)
+00:07:39.289 --> 00:07:40.856
+Yeah.
+
+75 "Voynovich, Matthew" (1590160128)
+00:07:40.856 --> 00:07:41.932
+Yeah.
+
+76 "Yau, Caitlin" (1413769216)
+00:07:41.932 --> 00:07:44.856
+We have the Figma ready so we already have like basically.
+
+77 "Voynovich, Matthew" (1590160128)
+00:07:44.856 --> 00:07:54.674
+I'll put basic wire frames down as in the like backlog, yeah.
+
+78 "Krushel, Cole" (2616253440)
+00:07:54.674 --> 00:07:56.556
+Uh.
+
+79 "Voynovich, Matthew" (1590160128)
+00:07:56.556 --> 00:08:09.622
+Do we want, ok, I'm trying to think like what else, do we want so I can set up the database in terms of like cause I know we wanted to make accounts and history and stuff.
+
+80 "Hargreaves, Harry" (799928832)
+00:08:09.622 --> 00:08:15.005
+I don't.
+
+81 "Hargreaves, Harry" (799928832)
+00:08:15.005 --> 00:08:16.983
+It's like how we did in intro? Yeah.
+
+82 "Voynovich, Matthew" (1590160128)
+00:08:16.983 --> 00:08:36.142
+I would just set it up like that. I'd create an account, like the user info thing and then I'd probably create a history database or like that's attached to the users and then you would just join them with SQL.
+
+83 "Krushel, Cole" (2616253440)
+00:08:36.142 --> 00:08:51.286
+And, I'm.
+
+84 "Hargreaves, Harry" (799928832)
+00:08:51.286 --> 00:08:55.704
+Sure, is there a proposal in the group repo? Yes.
+
+85 "Voynovich, Matthew" (1590160128)
+00:08:55.704 --> 00:09:03.648
+It is. Okay. Yeah.
+
+86 "Krushel, Cole" (2616253440)
+00:09:03.648 --> 00:09:15.926
+One month, oh.
+
+87 "Hargreaves, Harry" (799928832)
+00:09:15.926 --> 00:09:25.027
+Oh, oh wait, never mind, this is not for this.
+
+88 "Krushel, Cole" (2616253440)
+00:09:25.027 --> 00:09:26.310
+I'm sorry.
+
+89 "Voynovich, Matthew" (1590160128)
+00:09:26.310 --> 00:09:30.086
+Ready are you saying that like that stuff we're doing right now?
+
+90 "Krushel, Cole" (2616253440)
+00:09:30.086 --> 00:09:54.906
+Right, yeah, pretty much. Okay. I guess if, it's kind of redundant, by.
+
+91 "Voynovich, Matthew" (1590160128)
+00:09:54.906 --> 00:09:59.303
+Search page, what do you mean by that?
+
+92 "Krushel, Cole" (2616253440)
+00:09:59.303 --> 00:10:18.449
+I'm, I think the pay the visuals and functionality, but I guess in a, you know, I'll make more clean layout.
+
+93 "Krushel, Cole" (2616253440)
+00:10:38.449 --> 00:10:52.844
+Okay, I.
+
+94 "Ruan, Amanda" (1103669760)
+00:10:52.844 --> 00:10:59.811
+All of the pages that we have in Figma like all the ones that we want or are there more?
+
+95 "Voynovich, Matthew" (1590160128)
+00:10:59.811 --> 00:11:09.308
+Let me think. So we want the homepage obviously. We want to log in and create account.
+
+96 "Voynovich, Matthew" (1590160128)
+00:11:09.308 --> 00:11:14.107
+We probably want to create a profile page, I'd assume. Okay.
+
+97 "Ruan, Amanda" (1103669760)
+00:11:14.107 --> 00:11:15.229
+Yeah.
+
+98 "Krushel, Cole" (2616253440)
+00:11:15.229 --> 00:11:18.647
+On that profile page, you'd probably just have like a button to do.
+
+99 "Voynovich, Matthew" (1590160128)
+00:11:18.647 --> 00:11:36.435
+Display the history, so I don't think you need a separate history page. Yeah. So home, schedule, create login, profile.
+
+100 "Krushel, Cole" (2616253440)
+00:11:36.435 --> 00:11:41.011
+The schedule is part of the search page, I thought. Why.
+
+101 "Ruan, Amanda" (1103669760)
+00:11:41.011 --> 00:11:43.685
+What is the search page? Yeah, what is the search page?
+
+102 "Krushel, Cole" (2616253440)
+00:11:43.685 --> 00:11:51.118
+So it's like we have the, the page with the two buttons like schedule now. Okay.
+
+103 "Ruan, Amanda" (1103669760)
+00:11:51.118 --> 00:11:53.535
+It's another scheduled page.
+
+104 "Krushel, Cole" (2616253440)
+00:11:53.535 --> 00:11:56.691
+That that it that does make more sense, calling it that.
+
+105 "Voynovich, Matthew" (1590160128)
+00:11:56.691 --> 00:11:58.450
+Oh, so you were just saying.
+
+106 "Krushel, Cole" (2616253440)
+00:11:58.450 --> 00:12:00.414
+That's what it is like the word for schedule of.
+
+107 "Voynovich, Matthew" (1590160128)
+00:12:00.414 --> 00:12:11.735
+Okay. Yeah, like searchings a better term to clear that up. So when you said search, I thought you were saying like a search bar or something. Yeah. I mean.
+
+108 "Krushel, Cole" (2616253440)
+00:12:11.735 --> 00:12:14.950
+I don't know what that would do.
+
+109 "Voynovich, Matthew" (1590160128)
+00:12:14.950 --> 00:12:16.915
+That's why I was very confused.
+
+110 "Krushel, Cole" (2616253440)
+00:12:16.915 --> 00:12:25.854
+Okay, delete that. Oh.
+
+111 "Hargreaves, Harry" (799928832)
+00:12:25.854 --> 00:12:31.614
+Okay.
+
+112 "Voynovich, Matthew" (1590160128)
+00:12:31.614 --> 00:12:32.516
+Yeah.
+
+113 "Ruan, Amanda" (1103669760)
+00:12:32.516 --> 00:12:41.157
+I can make, like a Figma wireframe for the profile page. Yeah.
+
+114 "Voynovich, Matthew" (1590160128)
+00:12:41.157 --> 00:12:50.797
+Yeah, you can just do, we can put down like wireframe, like remaining wireframes as something we have to do. Yeah.
+
+115 "Ruan, Amanda" (1103669760)
+00:12:50.797 --> 00:12:58.437
+Okay, what's basic wireframe supposed to be? No hold on.
+
+116 "Voynovich, Matthew" (1590160128)
+00:12:58.437 --> 00:13:17.576
+I was saying more so like the basic page, like the pages don't have to be like the perfect look. It just have to have like the functionality so you can test like it doesn't need to be final look. I was just saying like, there's some code into it.
+
+117 "Voynovich, Matthew" (1590160128)
+00:13:17.576 --> 00:13:21.516
+Okay, but.
+
+118 "Hargreaves, Harry" (799928832)
+00:13:21.516 --> 00:13:22.754
+But I.
+
+119 "Voynovich, Matthew" (1590160128)
+00:13:22.754 --> 00:13:29.574
+Could change that to something else.
+
+120 "Ruan, Amanda" (1103669760)
+00:13:29.574 --> 00:13:32.398
+Maybe like basic website layout or something? Yeah.
+
+121 "Voynovich, Matthew" (1590160128)
+00:13:32.398 --> 00:13:37.896
+Yeah, I'll just write basic page functionality.
+
+122 "Ruan, Amanda" (1103669760)
+00:13:37.896 --> 00:13:43.175
+Yeah.
+
+123 "Hargreaves, Harry" (799928832)
+00:13:43.175 --> 00:13:46.475
+What is the difference between backlog and ready?
+
+124 "Voynovich, Matthew" (1590160128)
+00:13:46.475 --> 00:13:54.117
+A backlog means that it hasn't been started yet. Ready means that like that's something we're going to be, that we're currently working on.
+
+125 "Krushel, Cole" (2616253440)
+00:13:54.117 --> 00:13:55.077
+Yeah.
+
+126 "Hargreaves, Harry" (799928832)
+00:13:55.077 --> 00:13:59.395
+And then in progress is like, oh, I thought.
+
+127 "Voynovich, Matthew" (1590160128)
+00:13:59.395 --> 00:14:04.710
+Ready means that like we can start it right now in progress means.
+
+128 "Hargreaves, Harry" (799928832)
+00:14:04.710 --> 00:14:06.216
+Currently working, but.
+
+129 "Voynovich, Matthew" (1590160128)
+00:14:06.216 --> 00:14:14.800
+Backlog means like that's something that needs to be done. Or like backlog means that you need to do other stuff before you can start. Okay.
+
+130 "Baimel, Jackson" (2601033216)
+00:14:14.800 --> 00:14:16.195
+I'll also.
+
+131 "Voynovich, Matthew" (1590160128)
+00:14:16.195 --> 00:14:21.752
+Change the database setup to ready because I can just do that whenever. Yeah.
+
+132 "Hargreaves, Harry" (799928832)
+00:14:21.752 --> 00:14:24.936
+Okay.
+
+133 "Voynovich, Matthew" (1590160128)
+00:14:24.936 --> 00:14:33.813
+Oh, uh.
+
+134 "Hargreaves, Harry" (799928832)
+00:14:33.813 --> 00:14:42.931
+I can, oh, I can like create the login and create account pages.
+
+135 "Voynovich, Matthew" (1590160128)
+00:14:42.931 --> 00:14:57.089
+Yeah, I was gonna say in terms of like assigning work, do, like, do some people have certain preferences? Like, does someone not wanna work with PHP really badly? Does someone, like, that kind of stuff?
+
+136 "Hargreaves, Harry" (799928832)
+00:14:57.089 --> 00:15:01.823
+I really do not know much PHP, but I mean I kind of want to learn. Okay.
+
+137 "Voynovich, Matthew" (1590160128)
+00:15:01.823 --> 00:15:27.299
+Yeah, that's. I was gonna say that like I'll like I'm not the best with it, but my term projects last semester or like last year was basically all PHP in terms of like database stuff. So I would be fine doing that again if people wanted me to, but I'm I'm open to I'm flexible I can take whatever spot people want me to.
+
+138 "Voynovich, Matthew" (1590160128)
+00:15:27.299 --> 00:15:32.573
+Okay.
+
+139 "Hargreaves, Harry" (799928832)
+00:15:32.573 --> 00:15:36.353
+I like help with some of the PHP stuff but like can someone like yeah.
+
+140 "Voynovich, Matthew" (1590160128)
+00:15:36.353 --> 00:15:49.012
+Yeah. I can I can do the main and I'll just like, if I want something smaller or like help with something else I can for sure ask.
+
+141 "Voynovich, Matthew" (1590160128)
+00:15:49.012 --> 00:15:55.636
+We can use the live share thing if we're both trying to work. Oh.
+
+142 "Hargreaves, Harry" (799928832)
+00:15:55.636 --> 00:15:57.374
+And then on the on the commit I.
+
+143 "Voynovich, Matthew" (1590160128)
+00:15:57.374 --> 00:16:16.474
+I would just because commit you can like write contributors like I don't think it would necessarily add to like number of lines committed to you, but I could cite you on the like commit or like you could cite me, e.g. and just attach each other. Okay.
+
+144 "Hargreaves, Harry" (799928832)
+00:16:16.474 --> 00:16:23.731
+Yeah.
+
+145 "Ruan, Amanda" (1103669760)
+00:16:23.731 --> 00:16:24.754
+S.
+
+146 "Hargreaves, Harry" (799928832)
+00:16:24.754 --> 00:16:33.172
+Is this all stuff that we're like to finish by the for the 1st sprint or are we doing like total stuff at all? Like, I.
+
+147 "Voynovich, Matthew" (1590160128)
+00:16:33.172 --> 00:16:57.436
+I think that right now we should just focus on the 1st sprint and I'm assuming the 1st sprint is just we want like the basic look of the website with basic functionality. We don't need to go like deep into like cause I don't know if we're trying to like display how far the person picking up the laundry is, like cause that would probably require a lot of live communication. Yeah.
+
+148 "Krushel, Cole" (2616253440)
+00:16:57.436 --> 00:16:59.472
+Yeah.
+
+149 "Voynovich, Matthew" (1590160128)
+00:16:59.472 --> 00:17:11.605
+And that like I was trying to figure it that out, thinking about it logistically, that's a little bit hard, at least how I'm thinking about it.
+
+150 "Krushel, Cole" (2616253440)
+00:17:11.605 --> 00:17:13.621
+But.
+
+151 "Voynovich, Matthew" (1590160128)
+00:17:13.621 --> 00:17:19.185
+But it's not something that's impossible for us to do.
+
+152 "Krushel, Cole" (2616253440)
+00:17:19.185 --> 00:17:22.221
+Sure.
+
+153 "Voynovich, Matthew" (1590160128)
+00:17:22.221 --> 00:17:41.959
+So, like, that would be something that I'd say would be like saved until like one of the later sprints because that's not like a, it is like a functionality thing, but you could instead just have it be like, when the person's there, they sit like they click the, their, their button and it sends a push notification.
+
+154 "Voynovich, Matthew" (1590160128)
+00:17:41.959 --> 00:18:00.546
+Location instead to the website and thus you don't need to see the actual location of the person. Maybe until like they did, like, maybe it'll take the position when they press that button and then send it over instead of like constant live tracking.
+
+155 "Hargreaves, Harry" (799928832)
+00:18:00.546 --> 00:18:07.052
+But like that's a later, that's why I'm saying that would probably be like the.
+
+156 "Voynovich, Matthew" (1590160128)
+00:18:07.052 --> 00:18:12.990
+Last sprint kind of thing where it's like additional nicer touches.
+
+157 "Hargreaves, Harry" (799928832)
+00:18:12.990 --> 00:18:28.831
+Yeah, someone want to like, like create like a, like a theme or something like, like, is everybody like good at like making it look good? That's it.
+
+158 "Krushel, Cole" (2616253440)
+00:18:28.831 --> 00:18:29.927
+Good point.
+
+159 "Voynovich, Matthew" (1590160128)
+00:18:29.927 --> 00:18:42.008
+They kind of just stole for the like 1st lab like that color palette off of a website. I, I will forfeit that I'm not doing that.
+
+160 "Krushel, Cole" (2616253440)
+00:18:42.008 --> 00:18:47.939
+So.
+
+161 "Voynovich, Matthew" (1590160128)
+00:18:47.939 --> 00:18:54.850
+Well, the figmas should theoretically like provide the coloring.
+
+162 "Hargreaves, Harry" (799928832)
+00:18:54.850 --> 00:18:55.907
+Sure. So.
+
+163 "Voynovich, Matthew" (1590160128)
+00:18:55.907 --> 00:19:21.263
+So like I would I'm not saying that the person who does the figmas should necessarily do the CSS styling if like, either they don't want to or don't think they can make like replicate the look. But like the coloring and styling of how the website should look should likely come from the figmas, and then the CSS is just trying to replicate that.
+
+164 "Hargreaves, Harry" (799928832)
+00:19:21.263 --> 00:19:25.844
+Yeah.
+
+165 "Baimel, Jackson" (2601033216)
+00:19:25.844 --> 00:19:30.047
+I think we have a pretty good set of stuff to do for at least till next Saturday.
+
+166 "Hargreaves, Harry" (799928832)
+00:19:30.047 --> 00:19:31.981
+For this Saturday.
+
+167 "Voynovich, Matthew" (1590160128)
+00:19:31.981 --> 00:19:33.561
+Yeah.
+
+168 "Baimel, Jackson" (2601033216)
+00:19:33.561 --> 00:19:41.644
+Is there anything else anybody really wants to say before, I mean, we've been here for like 15 min at this point, so.
+
+169 "Voynovich, Matthew" (1590160128)
+00:19:41.644 --> 00:19:52.563
+Oh, I don't think so. I think it's just, I don't think we need to get a monumental amount of work done. I think it's just piece by piece because I know everyone has classes.
+
+170 "Krushel, Cole" (2616253440)
+00:19:52.563 --> 00:19:53.905
+Yeah, I agree.
+
+171 "Baimel, Jackson" (2601033216)
+00:19:53.905 --> 00:19:55.544
+Get started.
+
+172 "Voynovich, Matthew" (1590160128)
+00:19:55.544 --> 00:20:07.815
+It as like and we don't I don't think by end of semester, Calluhan is expecting us to have like because I don't want to say that our group probably has one of the hardest projects, but.
+
+173 "Krushel, Cole" (2616253440)
+00:20:07.815 --> 00:20:09.365
+In terms of concept.
+
+174 "Voynovich, Matthew" (1590160128)
+00:20:09.365 --> 00:20:22.260
+That's like the functionality that our website needs is a lot more than like the planners and sca like that kind of thing that the other groups are doing.
+
+175 "Krushel, Cole" (2616253440)
+00:20:22.260 --> 00:20:23.863
+Yeah, screen demanding. Yeah.
+
+176 "Voynovich, Matthew" (1590160128)
+00:20:23.863 --> 00:20:31.604
+Especially in regards to like needing like live communication between two parties on a website.
+
+177 "Krushel, Cole" (2616253440)
+00:20:31.604 --> 00:20:42.480
+I mean we can put in webhooks. I don't really want to. I don't even know how to do that.
+
+178 "Voynovich, Matthew" (1590160128)
+00:20:42.480 --> 00:20:50.262
+I mean if Callahan said that we needed to find something that we didn't think we could do.
+
+179 "Krushel, Cole" (2616253440)
+00:20:50.262 --> 00:20:55.804
+That's true. We'll cross that bridge when we get there. Yeah.
+
+180 "Voynovich, Matthew" (1590160128)
+00:20:55.804 --> 00:21:00.442
+Yeah, but I I think this is a pretty good set of things.
+
+181 "Hargreaves, Harry" (799928832)
+00:21:00.442 --> 00:21:02.583
+And people.
+
+182 "Voynovich, Matthew" (1590160128)
+00:21:02.583 --> 00:21:14.323
+Those should just tackle it as it goes. I can, well Harry, you said that you wanted to do the, like, login and create account pages or?
+
+183 "Hargreaves, Harry" (799928832)
+00:21:14.323 --> 00:21:23.223
+Yeah, like, I can do like the HTML like in JavaScript and CS or I guess CSS would like once I once that.
+
+184 "Voynovich, Matthew" (1590160128)
+00:21:23.223 --> 00:21:40.938
+Yeah, if you want me to do like the PHP connecting the form, I can do that. Like you can set up the form with JS and all that stuff. I can connect it to the database and because I'll have built the database. And I could build it off of that.
+
+185 "Yau, Caitlin" (1413769216)
+00:21:40.938 --> 00:21:48.963
+Wait so are we all working on, who's working on like the basic page layouts?
+
+186 "Voynovich, Matthew" (1590160128)
+00:21:48.963 --> 00:21:55.424
+That's what I was gonna say. We did need to split, like, say who's doing what.
+
+187 "Yau, Caitlin" (1413769216)
+00:21:55.424 --> 00:21:58.505
+Okay, yeah, I think we should decide that right now. Yeah, I mean.
+
+188 "Krushel, Cole" (2616253440)
+00:21:58.505 --> 00:22:03.043
+There's like a, there's an assignee's part on of the projects.
+
+189 "Hargreaves, Harry" (799928832)
+00:22:03.043 --> 00:22:06.339
+Yeah, I can see just.
+
+190 "Voynovich, Matthew" (1590160128)
+00:22:06.339 --> 00:22:12.057
+So you, the arrow down, you click on that and you can put yourself or.
+
+191 "Yau, Caitlin" (1413769216)
+00:22:12.057 --> 00:22:13.997
+Many of us?
+
+192 "Hargreaves, Harry" (799928832)
+00:22:13.997 --> 00:22:18.145
+The arrow down.
+
+193 "Yau, Caitlin" (1413769216)
+00:22:18.145 --> 00:22:20.699
+Wait, I don't know how to do that. Okay, yeah.
+
+194 "Voynovich, Matthew" (1590160128)
+00:22:20.699 --> 00:22:30.365
+Like, like I Do you see that I just put you down for the login page, Mary?
+
+195 "Hargreaves, Harry" (799928832)
+00:22:30.365 --> 00:22:32.582
+Oh yeah, I do.
+
+196 "Voynovich, Matthew" (1590160128)
+00:22:32.582 --> 00:22:56.663
+Do you not see the little arrow on the right of that box? No. Sorry. Wait, I'll send a screenshot on discard, like the, you don't see the arrow to the left of like the blue.
+
+197 "Voynovich, Matthew" (1590160128)
+00:22:56.663 --> 00:22:57.703
+Okay.
+
+198 "Hargreaves, Harry" (799928832)
+00:22:57.703 --> 00:22:59.166
+No.
+
+199 "Yau, Caitlin" (1413769216)
+00:22:59.166 --> 00:23:03.965
+Oh, he's in the back, the, the 1st tab, the prioritized back.
+
+200 "Hargreaves, Harry" (799928832)
+00:23:03.965 --> 00:23:05.456
+Look.
+
+201 "Voynovich, Matthew" (1590160128)
+00:23:05.456 --> 00:23:15.043
+Oh, oh yeah, where he goes. Oh, yeah. Okay, yeah, you're you have to edit it in the backlog.
+
+202 "Hargreaves, Harry" (799928832)
+00:23:15.043 --> 00:23:16.063
+Oh, ok. Sorry, my.
+
+203 "Voynovich, Matthew" (1590160128)
+00:23:16.063 --> 00:23:22.020
+That I should have specified.
+
+204 "Krushel, Cole" (2616253440)
+00:23:22.020 --> 00:23:23.200
+Okay.
+
+205 "Hargreaves, Harry" (799928832)
+00:23:23.200 --> 00:23:25.707
+Okay.
+
+206 "Ruan, Amanda" (1103669760)
+00:23:25.707 --> 00:23:27.327
+So.
+
+207 "Voynovich, Matthew" (1590160128)
+00:23:27.327 --> 00:23:47.043
+I will help with the database part of that so I'll put myself onto it. There you go. I can do the profile page cause that will be taking a lot of stuff from the database.
+
+208 "Voynovich, Matthew" (1590160128)
+00:23:49.286 --> 00:24:04.415
+I don't necessarily know what it'll look like, but I can get the functionality of like grabbing the things we need ready and then the display I can do when someone thinks of what it'll look like or stuff.
+
+209 "Krushel, Cole" (2616253440)
+00:24:05.319 --> 00:24:07.913
+Yeah.
+
+210 "Hargreaves, Harry" (799928832)
+00:24:07.913 --> 00:24:14.261
+Right.
+
+211 "Krushel, Cole" (2616253440)
+00:24:14.261 --> 00:24:17.260
+Anyway.
+
+212 "Voynovich, Matthew" (1590160128)
+00:24:17.260 --> 00:24:31.122
+And I I don't think we, like everyone can just assign themselves to whatever they want to do. And if there's like not people to certain things we can either spread out or all pick up what people don't want.
+
+213 "Ruan, Amanda" (1103669760)
+00:24:31.704 --> 00:24:36.874
+Yeah, I'll take whichever page isn't done.
+
+214 "Voynovich, Matthew" (1590160128)
+00:24:36.874 --> 00:25:01.608
+Yeah, oh yeah, someone could be like writing the like about us page information, like, we have other stuff that's not coding that could be done like the writing of the about us, or like someone like writing about the process of like how we want it to work in terms of scheduling something.
+
+215 "Baimel, Jackson" (2601033216)
+00:25:01.608 --> 00:25:03.533
+Some documentation stuff, yeah.
+
+216 "Voynovich, Matthew" (1590160128)
+00:25:03.533 --> 00:25:16.711
+Yeah exactly, because there is the the development part, but we also, there should probably be a centralized guideline so people know like how we want the website to flow and function.
+
+217 "Ruan, Amanda" (1103669760)
+00:25:20.052 --> 00:25:23.287
+I have a question.
+
+218 "Voynovich, Matthew" (1590160128)
+00:25:23.287 --> 00:25:25.184
+In terms of service.
+
+219 "Ruan, Amanda" (1103669760)
+00:25:25.184 --> 00:25:28.012
+Okay. That's, I'm assuming.
+
+220 "Voynovich, Matthew" (1590160128)
+00:25:28.012 --> 00:25:31.093
+But, uh.
+
+221 "Krushel, Cole" (2616253440)
+00:25:31.093 --> 00:25:32.431
+Kelly hand was.
+
+222 "Voynovich, Matthew" (1590160128)
+00:25:32.431 --> 00:25:42.532
+Yeah, that's what Callianne wants and sounds like what Jackson is interested in doing. Oh.
+
+223 "Hargreaves, Harry" (799928832)
+00:25:42.532 --> 00:25:46.287
+Okay.
+
+224 "Voynovich, Matthew" (1590160128)
+00:25:46.287 --> 00:25:47.048
+Sh.
+
+225 "Hargreaves, Harry" (799928832)
+00:25:47.048 --> 00:25:49.709
+Where is ok.
+
+226 "Voynovich, Matthew" (1590160128)
+00:25:49.709 --> 00:26:04.274
+I think we're, I don't know, it's up to you guys, but I think we're pretty good for now and people can just assign, and if they think of anything else, just drop it on the like project board and we can move things around.
+
+227 "Yau, Caitlin" (1413769216)
+00:26:04.274 --> 00:26:08.270
+Also, I, I filled out the doc, the Google Doc with.
+
+228 "Voynovich, Matthew" (1590160128)
+00:26:08.270 --> 00:26:11.507
+Sick.
+
+229 "Baimel, Jackson" (2601033216)
+00:26:11.507 --> 00:26:15.252
+Great.
+
+230 "Voynovich, Matthew" (1590160128)
+00:26:15.252 --> 00:26:23.768
+Alright, I'll drop that actually in the actual IT discord cause we probably gonna have to start using that more.
+
+231 "Krushel, Cole" (2616253440)
+00:26:23.768 --> 00:26:26.868
+Yeah.
+
+232 "Voynovich, Matthew" (1590160128)
+00:26:26.868 --> 00:26:27.748
+Okay.
+
+233 "Hargreaves, Harry" (799928832)
+00:26:27.748 --> 00:26:33.312
+Jackson, do you also have a, you also, we also have a transcript from this?
+
+234 "Baimel, Jackson" (2601033216)
+00:26:33.312 --> 00:26:40.989
+Yeah hopefully, I hit the button before, so they'll be able to find that.
+
+235 "Hargreaves, Harry" (799928832)
+00:26:40.989 --> 00:26:41.971
+There we go.
+
+236 "Voynovich, Matthew" (1590160128)
+00:26:41.971 --> 00:27:00.514
+If the thing doesn't transcript, I can try and write up notes after and we'll just drop I'm assuming we're just gonna drop, create a new folder in our repo for this and just drop like a read me file or something like or a TXT file.
+
+237 "Baimel, Jackson" (2601033216)
+00:27:00.514 --> 00:27:03.734
+Yeah, yeah, we can just like dump it in there. Yeah, and just.
+
+238 "Voynovich, Matthew" (1590160128)
+00:27:03.734 --> 00:27:08.146
+Title it like sprint week one, uh.
+
+239 "Ruan, Amanda" (1103669760)
+00:27:08.146 --> 00:27:09.172
+Okay.
+
+240 "Voynovich, Matthew" (1590160128)
+00:27:09.172 --> 00:27:12.315
+Scrum or what is it? Scrum meeting?
+
+241 "Ruan, Amanda" (1103669760)
+00:27:12.315 --> 00:27:14.750
+Yeah.
+
+242 "Krushel, Cole" (2616253440)
+00:27:14.750 --> 00:27:15.715
+Okay.
+
+243 "Baimel, Jackson" (2601033216)
+00:27:15.715 --> 00:27:18.331
+Yep, I can do that.
+
+244 "Voynovich, Matthew" (1590160128)
+00:27:18.331 --> 00:27:22.132
+Okay.
+
+245 "Hargreaves, Harry" (799928832)
+00:27:22.132 --> 00:27:26.184
+Wait, are we having we're, our next meeting is on Saturday, right?
+
+246 "Voynovich, Matthew" (1590160128)
+00:27:26.184 --> 00:27:30.912
+Yeah, there we go.
+
+247 "Hargreaves, Harry" (799928832)
+00:27:30.912 --> 00:27:40.411
+All right. Anybody have anything? I don't think so. Okay, cool.
+
+248 "Voynovich, Matthew" (1590160128)
+00:27:40.411 --> 00:27:41.855
+Bye.
+
+249 "Yau, Caitlin" (1413769216)
+00:27:41.855 --> 00:27:43.224
+Just.
+
+250 "Voynovich, Matthew" (1590160128)
+00:27:43.224 --> 00:27:43.864
+I don't know.
+
+251 "Hargreaves, Harry" (799928832)
+00:27:43.864 --> 00:28:00.516
+Right.

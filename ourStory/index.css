@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@100;200;300;400;500;600;700;800;900&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+
+* {
+    font-family: "Encode Sans Expanded", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h1{
+    font-weight: 5px;
+    font-size: 64px;
+    margin-top: 0;
+}
+
+p{
+    font-size: 20px;
+}
+
+#hero{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 100px;
+}
+
+#contentContainer{
+    margin-top: 5em;
+    padding: 50px 80px;
+}
+
+#formContainer{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+button, input, textarea{
+    width: 500px;
+    height: 40px;
+    border-radius: 8px;
+    border-color: #ccc;
+    border-width: 2px;
+    padding: 5px 10px;
+}
+
+label{
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    padding: 16px 0px 8px 0px;
+}
+
+#form{
+    width: fit-content;
+}
+
+#name{
+    display: flex;
+    justify-content: space-between;
+}
+
+#fname, #lname{
+    width: 230px;
+}
+
+#message{
+    height: 150px;
+}
+
+#submit{
+    height: 48px;
+    margin-top: 16px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+}
+
+#submit:hover {
+    background-color: #424649;
+}
+
+#notificationContainer{
+    display: none;
+    position: sticky;
+    bottom: 20px;
+    z-index: 10;
+    font-size: 15px;
+    width: 300px;
+    height: fit-content;
+    padding: 10px;
+}
+
+@keyframes disappear {
+    0%{
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.disappear {
+    animation: disappear 5s forwards;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: black;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: #424649;
+}

@@ -1,0 +1,273 @@
+WEBVTT
+
+1 "Hargreaves, Harry" (3361632000)
+00:02:29.540 --> 00:02:47.310
+Hey guys, I kind of have the, their meeting in my couple minutes and I was wondering if I could just like say what I like did like before like and then like even though not everyone's here. Yeah, that's.
+
+2 "Hargreaves, Harry" (3361632000)
+00:02:47.310 --> 00:03:03.630
+Okay, so, I was working on like the PHP or like the session data and then I think I did it wrong like last week so I had to go back and like fix everything and.
+
+3 "Hargreaves, Harry" (3361632000)
+00:03:03.630 --> 00:03:19.350
+I did that and then I also need to like change all the HTML files pretty much that we have except for like the header and footer and like some of the resources and just make them PHP, but not gonna change any of that.
+
+4 "Hargreaves, Harry" (3361632000)
+00:03:19.350 --> 00:03:34.860
+Like functionality on that and then also I guess in the next week I can start looking at like the security like some like environmental variables or.
+
+5 "Hargreaves, Harry" (3361632000)
+00:03:34.860 --> 00:03:51.757
+Or, well, like, do you guys have any suggestions for that like the user? I think we already have the user, it's right but I can start looking at security stuff alone.
+
+6 "Krushel, Cole" (123408128)
+00:03:51.757 --> 00:03:54.322
+What to do.
+
+7 "Hargreaves, Harry" (3361632000)
+00:03:54.322 --> 00:03:56.563
+What did you say?
+
+8 "Krushel, Cole" (123408128)
+00:03:56.563 --> 00:03:59.700
+Sorry, asking like suggestions on what to do or?
+
+9 "Hargreaves, Harry" (3361632000)
+00:03:59.700 --> 00:04:02.440
+Yeah, NO, like, and like for security.
+
+10 "Krushel, Cole" (123408128)
+00:04:02.440 --> 00:04:06.655
+Pretty like to use the environmental variables like to have like the.
+
+11 "Hargreaves, Harry" (3361632000)
+00:04:06.655 --> 00:04:13.262
+Like API keys and like their username and password because like we're using that on a lot of the pages, like just to log in.
+
+12 "Krushel, Cole" (123408128)
+00:04:13.262 --> 00:04:31.596
+Yeah, I mean if we already have if we're hashing the like user info where I can put in the environment I can't really think anything else.
+
+13 "Hargreaves, Harry" (3361632000)
+00:04:31.596 --> 00:04:32.459
+Training.
+
+14 "Hargreaves, Harry" (3361632000)
+00:04:32.459 --> 00:04:55.219
+Okay, I guess I can try to find something. I'll look at the, the, like project page and I'll like work through and see what we haven't done yet that we send me two.
+
+15 "Krushel, Cole" (123408128)
+00:04:55.219 --> 00:05:01.197
+All right.
+
+16 "Hargreaves, Harry" (3361632000)
+00:05:01.197 --> 00:05:04.561
+No. Okay I'm just gonna say.
+
+17 "Krushel, Cole" (123408128)
+00:05:04.561 --> 00:05:24.449
+Still, I still have like buttons now, but like once a user has an active trip, they can return to the schedule page and it displays their active trip and on a map, that that's promotion done, but that's I mean, that doesn't look very good right now.
+
+18 "Krushel, Cole" (123408128)
+00:05:24.449 --> 00:05:44.449
+If if if anyone doesn't like doesn't know what they can do, like if someone can make like a figma for the schedule page or something, talk about that later because it looks not shitty right now.
+
+19 "Krushel, Cole" (123408128)
+00:05:44.449 --> 00:05:47.377
+I'm working on that.
+
+20 "Ruan, Amanda" (1365807360)
+00:05:50.743 --> 00:06:05.139
+Don't we wait, don't we have like a figma for that or do you want like another one? Do we, do we have one? I feel like we did.
+
+21 "Krushel, Cole" (123408128)
+00:06:05.139 --> 00:06:08.079
+I'm not really sure about the find the figmas.
+
+22 "Ruan, Amanda" (1365807360)
+00:06:08.079 --> 00:06:12.777
+I could send the link again.
+
+23 "Krushel, Cole" (123408128)
+00:06:12.777 --> 00:06:25.378
+You do have it, we shouldn't.
+
+24 "Hargreaves, Harry" (3361632000)
+00:06:25.378 --> 00:06:30.139
+Okay, I kind of have to go. That's fine.
+
+25 "Ruan, Amanda" (1365807360)
+00:06:30.139 --> 00:06:31.579
+Hello there.
+
+26 "Hargreaves, Harry" (3361632000)
+00:06:31.579 --> 00:06:34.258
+Alright, see you guys.
+
+27 "Ruan, Amanda" (1365807360)
+00:06:34.258 --> 00:06:35.102
+Okay.
+
+28 "Krushel, Cole" (123408128)
+00:06:35.102 --> 00:06:40.975
+Yeah, the same.
+
+29 "Baimel, Jackson" (1220648704)
+00:06:40.975 --> 00:07:03.089
+Really quickly oh sorry I'll just so I was just writing some of the follower documents, but they're in progress, the Figma thought.
+
+30 "Baimel, Jackson" (1220648704)
+00:07:03.089 --> 00:07:30.796
+Let's like it's there.
+
+31 "Ruan, Amanda" (1365807360)
+00:07:30.796 --> 00:07:35.538
+All right, Paul, did you want like a more detailed one or?
+
+32 "Krushel, Cole" (123408128)
+00:07:35.538 --> 00:07:53.339
+Yeah, I was looking at the the figma. I realized it should have been clear so like that's like kind of what I have right now, but it's like, I guess I can I'm gonna show it right now.
+
+33 "Krushel, Cole" (123408128)
+00:07:53.339 --> 00:08:11.830
+It's like when you schedule schedule a trip. Yeah, let me share my screen.
+
+34 "Baimel, Jackson" (1220648704)
+00:08:11.830 --> 00:08:12.475
+Okay.
+
+35 "Baimel, Jackson" (1220648704)
+00:08:19.181 --> 00:08:20.939
+Yeah.
+
+36 "Ruan, Amanda" (1365807360)
+00:08:20.939 --> 00:08:22.596
+Yeah.
+
+37 "Krushel, Cole" (123408128)
+00:08:22.596 --> 00:08:30.470
+Now I have like an user, I have like an active trip, right? So it'll it like shows it on the map.
+
+38 "Ruan, Amanda" (1365807360)
+00:08:30.470 --> 00:08:32.453
+Yep.
+
+39 "Krushel, Cole" (123408128)
+00:08:32.453 --> 00:08:54.698
+It's still working on like the displaying the row on the map. It's upposed to like display the driver info here but it's kind of placeholder supposed to be the image so not really sure it's like it's like the status status text, I don't know, it might be like a better way to display that, but also only on the provider being.
+
+40 "Baimel, Jackson" (1220648704)
+00:08:54.698 --> 00:08:57.737
+So.
+
+41 "Krushel, Cole" (123408128)
+00:08:57.737 --> 00:09:14.895
+It's not that the user here and then there's like a couple of like asher buttons which are supposed to either like cancel a trip or like go on to the next step of the like the laundry process.
+
+42 "Baimel, Jackson" (1220648704)
+00:09:14.895 --> 00:09:17.838
+Yeah.
+
+43 "Ruan, Amanda" (1365807360)
+00:09:17.838 --> 00:09:23.655
+Okay. I means did the same thing.
+
+44 "Krushel, Cole" (123408128)
+00:09:23.655 --> 00:09:25.154
+Is it.
+
+45 "Baimel, Jackson" (1220648704)
+00:09:25.154 --> 00:09:27.276
+Buttons.
+
+46 "Ruan, Amanda" (1365807360)
+00:09:27.276 --> 00:09:37.016
+Okay, so so like you just want to more fleshed out like wire frame for those pages.
+
+47 "Krushel, Cole" (123408128)
+00:09:37.016 --> 00:09:42.559
+Yeah, it's like I mean it's like either I run like the vertical view.
+
+48 "Baimel, Jackson" (1220648704)
+00:09:42.559 --> 00:09:47.992
+Doing just have like map status inside.
+
+49 "Krushel, Cole" (123408128)
+00:09:47.992 --> 00:09:57.232
+So or something because it's only the web browser anyways, kind of like horizontal thing design might be better. It's like how the Figma.
+
+50 "Krushel, Cole" (123408128)
+00:10:02.639 --> 00:10:11.939
+It's like another thing that has like the schedule of the calendar, it's like a pop up, but there's like the map, and right now the map is just like by itself.
+
+51 "Ruan, Amanda" (1365807360)
+00:10:11.939 --> 00:10:26.668
+Yeah, I think, I think a horizontal would be better. I could update the Figma to have those pages, so you could have like a reference.
+
+52 "Krushel, Cole" (123408128)
+00:10:26.668 --> 00:10:40.046
+Yeah, just that if you if we're looking for something to do that that's like the last thing.
+
+53 "Ruan, Amanda" (1365807360)
+00:10:40.046 --> 00:10:49.263
+Yeah, I'm still working on like the contact one thing so when I'm done with that, I'll come.
+
+54 "Krushel, Cole" (123408128)
+00:10:49.263 --> 00:10:51.208
+And this one?
+
+55 "Ruan, Amanda" (1365807360)
+00:10:51.208 --> 00:10:55.625
+Yeah, like submit.
+
+56 "Krushel, Cole" (123408128)
+00:10:55.625 --> 00:10:58.706
+But it doesn't actually send the email?
+
+57 "Ruan, Amanda" (1365807360)
+00:10:58.706 --> 00:11:08.046
+Yeah, I didn't push my changes yet, but it submits and it doesn't send the email because like Gmail like filters it out.
+
+58 "Krushel, Cole" (123408128)
+00:11:08.046 --> 00:11:13.561
+Or something? Yeah, I don't know if that's something we can like even do or have to do honestly.
+
+59 "Ruan, Amanda" (1365807360)
+00:11:13.561 --> 00:11:30.993
+Yeah, I don't know. I'm trying like PHP mailer to see if that will fix it, but if not, I might just revert back to like displaying the email and having them use like actual Gmail and like emails or.
+
+60 "Krushel, Cole" (123408128)
+00:11:30.993 --> 00:11:41.276
+Yeah, I mean worst case we just put this as like a table in the database I guess. Just to like make it, it's like showing that we received.
+
+61 "Ruan, Amanda" (1365807360)
+00:11:41.276 --> 00:11:42.873
+I mean.
+
+62 "Krushel, Cole" (123408128)
+00:11:42.873 --> 00:11:50.651
+I don't know if the email integration, I mean if you get it to work, that would be amazing because it seems kind of difficult.
+
+63 "Ruan, Amanda" (1365807360)
+00:11:50.651 --> 00:12:06.248
+Yeah, I'm gonna try and we'll see how it goes. Yeah.
+
+64 "Krushel, Cole" (123408128)
+00:12:06.248 --> 00:12:10.750
+Okay.
+
+65 "Ruan, Amanda" (1365807360)
+00:12:10.750 --> 00:12:13.976
+Alright, is there anything else?
+
+66 "Baimel, Jackson" (1220648704)
+00:12:13.976 --> 00:12:22.467
+What? Nine.
+
+67 "Ruan, Amanda" (1365807360)
+00:12:22.467 --> 00:12:37.040
+Okay, I don't think the other two can't make it, so I think that's it for today.
+
+68 "Krushel, Cole" (123408128)
+00:12:37.040 --> 00:12:49.716
+Yeah, I think very good. Bye bye.

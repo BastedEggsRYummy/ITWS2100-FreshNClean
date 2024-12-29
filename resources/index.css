@@ -1,0 +1,262 @@
+* {
+    font-family: "Encode Sans Expanded", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+body {
+    margin: 0; /* Remove default body margin */
+    font-family: "Encode Sans Expanded", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.full-screen {
+    height: calc(100vh - 200px);
+    display: flex; /* Use flexbox for centering */
+    flex-direction: column; /* Stack items vertically */
+    justify-content: center;
+    align-items: center;
+    /* background-color: #f3faff !important; */
+    text-align: center;
+}
+
+#header {
+    margin: 0 !important; /* Remove any margin */
+    box-shadow: 0 4px 2px -2px rgb(205, 205, 205) !important; /* Keep or customize the shadow */
+    z-index: 1000 !important; /* Ensure header stays on top */
+    position: fixed !important;
+    top: 0 !important;
+    width: 100%; /* Ensure it spans the full width */
+}
+
+#start {
+    margin-top: 70px;
+}
+
+.button-container {
+    display: flex; /* Arrange buttons side by side */
+    gap: 40px; /* Add space between buttons */
+    margin-top: 20px; /* Add space above the buttons */
+    width: 100%; /* Ensure container spans full width */
+    justify-content: center; /* Center buttons horizontally */
+}
+
+.full-screen button {
+    width: 240px;
+    height: 70px;
+    padding: 10px;
+    font-size: 22px !important;
+    border: none;
+    cursor: pointer;
+    border-radius: 24px;
+    font-weight: 800;
+    background-color: #bde6ff;
+    color: black;
+}
+
+.full-screen button:hover {
+    background-color: #d8f0ff;
+    color: #000000;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.full-screen h1 {
+    font-size: 80px;
+    font-family: "Encode Sans Expanded", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #000000;
+    text-shadow: 0 0 3px #ABDAEE, 0 0 3px #ABDAEE;
+}
+
+.full-screen p {
+    font-size: 22px;
+    color: #000000;
+    text-shadow: 0 0 1px #ABDAEE, 0 0 1px #ABDAEE;
+}
+
+#content {
+    margin: 50px 80px;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+b {
+    margin-left: 0;
+}
+
+.sub-heading {
+    font-size: 40px;
+    font-weight: 700;
+    padding: 50px;
+}
+
+h3 {
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.button {
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-size: 20px;
+}
+
+.button:hover {
+    background-color: #333;
+}
+
+#laundry-image {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.columns {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.attribute {
+    display: flex;
+    width: 33%;
+    flex-direction: column;
+    text-align: center; 
+}
+
+.FAQ {
+    display: flex;
+    width: 50%;
+    flex-direction: column; /* Stack the image and text vertically */
+}
+
+.FAQ button {
+    width: 50%;
+}
+
+.card{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+}
+
+.card img {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.review {
+    flex: 0 0 32%; margin: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+    padding: 15px;
+}
+
+img {
+    object-fit: cover;
+}
+
+.star-rating {
+    color: #ddd;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.star-rating .star {
+    display: inline-block;
+    margin-right: 3px;
+}
+
+.star-rating .star.filled {
+    color: gold;
+}
+
+#schedule-laundry {
+    padding: 50px;
+}
+
+.FAQ img {
+    padding-left: 50px;
+    height: 50vh;
+}
+
+button {
+    font-weight: 600;
+}
+
+.parallax-container {
+    position: relative;
+    padding: 50px 0;
+    display: flex;
+    align-items: center; /* Vertically center text */
+    justify-content: center; /* Horizontally center text */
+    overflow: hidden;
+}
+  
+.parallax-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('bubbles.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Parallax effect */
+    z-index: -1;
+}
+  
+.content {
+    width: 90%;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    z-index: 1;
+}
+  
+.text-section {
+    padding: 40px 20px; /* Spacing around text sections */
+    text-align: center;
+}
+
+#scrollToTopBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #bde6ffb0;
+    border: none;
+    border-radius: 50%; /* Perfect circle */
+    padding: 30px;
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 9999; /* Ensure it's on top of other elements */
+    display: none; /* Initially hidden */
+    transition: opacity 0.3s ease; /* Smooth transition */
+}
+
+#scrollToTopBtn:hover {
+    background-color: #c6e9ffb0; /* Darker blue on hover */
+}

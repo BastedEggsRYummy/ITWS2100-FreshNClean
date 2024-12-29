@@ -1,0 +1,217 @@
+WEBVTT
+
+1 "Voynovich, Matthew" (4077600256)
+00:01:03.825 --> 00:01:17.107
+Okay, Hello.
+
+2 "Krushel, Cole" (110619392)
+00:01:17.107 --> 00:01:18.286
+Hello.
+
+3 "Baimel, Jackson" (4169642240)
+00:01:18.286 --> 00:01:22.909
+Hello. Hi.
+
+4 "Ruan, Amanda" (578597632)
+00:01:22.909 --> 00:01:29.208
+Oh, Hello.
+
+5 "Krushel, Cole" (110619392)
+00:01:29.208 --> 00:01:31.591
+Oh, how's everybody doing?
+
+6 "Voynovich, Matthew" (4077600256)
+00:01:31.591 --> 00:01:35.167
+Asleep for the last 2 h.
+
+7 "Ruan, Amanda" (578597632)
+00:01:35.167 --> 00:01:40.386
+I'm making food.
+
+8 "Krushel, Cole" (110619392)
+00:01:40.386 --> 00:01:41.125
+Yeah.
+
+9 "Voynovich, Matthew" (4077600256)
+00:01:41.125 --> 00:02:07.670
+I guess we can just make this quick and just say either like just the intended meeting compared to like setting up our thing like last time, we can just say what we're intending to do and if we've worked on anything so far currently And I guess we can just go down unless people have more to say for this meeting.
+
+10 "Voynovich, Matthew" (4077600256)
+00:02:07.670 --> 00:02:09.830
+Okay.
+
+11 "Baimel, Jackson" (4169642240)
+00:02:09.830 --> 00:02:13.087
+I don't think that's a great idea. Alright.
+
+12 "Voynovich, Matthew" (4077600256)
+00:02:13.087 --> 00:02:42.024
+I can start and we can just go down line. I'm currently using the local host thing that I was showing in class to just set up the database with like the mysql stuff and I'm like just trying to get some forms working with PHP, and then I haven't like designed the interface for those pages yet, just trying to connect the forms with the setup database.
+
+13 "Krushel, Cole" (110619392)
+00:02:42.024 --> 00:03:02.324
+Yeah, I made like a s a skeleton for the search page and I wanted to try implementing the Google the geolocation and the Google Maps API. Although I might need someone else to create a key because my free trial is over.
+
+14 "Voynovich, Matthew" (4077600256)
+00:03:02.324 --> 00:03:05.742
+I can do that for you if, just remind me.
+
+15 "Krushel, Cole" (110619392)
+00:03:05.742 --> 00:03:11.304
+Yeah, you can you can do that later.
+
+16 "Yau, Caitlin" (2685351168)
+00:03:11.304 --> 00:03:12.144
+Okay.
+
+17 "Hargreaves, Harry" (2365752320)
+00:03:12.144 --> 00:03:42.122
+Also what we're planning yeah sorry I can go next, I guess. So I created the like HTML and JavaScript for the create account and the login pages, and I'm just waiting for like the, I I guess I still need to do that, like connected with the PHP and like the data and the like database stuff.
+
+18 "Voynovich, Matthew" (4077600256)
+00:03:42.122 --> 00:03:45.525
+Yeah, once I set that up on the actual VM cause I've only done it on local.
+
+19 "Hargreaves, Harry" (2365752320)
+00:03:45.525 --> 00:03:47.623
+I can export that right over.
+
+20 "Voynovich, Matthew" (4077600256)
+00:03:47.623 --> 00:03:50.704
+I'll let you know so that you can start doing it.
+
+21 "Hargreaves, Harry" (2365752320)
+00:03:50.704 --> 00:03:52.245
+Okay, I mean, not probably.
+
+22 "Voynovich, Matthew" (4077600256)
+00:03:52.245 --> 00:03:54.610
+Have that by tomorrow.
+
+23 "Hargreaves, Harry" (2365752320)
+00:03:54.610 --> 00:04:00.364
+Okay. What, what branch are you guys working on? I'm in my own branch.
+
+24 "Voynovich, Matthew" (4077600256)
+00:04:00.364 --> 00:04:03.302
+Oh, I haven't I haven't published my branch yet, that's my bad.
+
+25 "Krushel, Cole" (110619392)
+00:04:03.302 --> 00:04:07.505
+Yeah, and I mean if you have a ramp it's fine, I just wasn't seen anything, so.
+
+26 "Voynovich, Matthew" (4077600256)
+00:04:07.505 --> 00:04:12.784
+Yeah, I I have a branch and I was just loca working locally because I have xamp.
+
+27 "Krushel, Cole" (110619392)
+00:04:12.784 --> 00:04:17.263
+Yeah, yeah.
+
+28 "Hargreaves, Harry" (2365752320)
+00:04:17.263 --> 00:04:20.585
+Are we also supposed to say like what we plan to do?
+
+29 "Voynovich, Matthew" (4077600256)
+00:04:20.585 --> 00:04:23.464
+Yeah, I guess.
+
+30 "Hargreaves, Harry" (2365752320)
+00:04:23.464 --> 00:04:42.604
+I guess I can add CSS to those two pages and I can actually, I'll look at the projects page but it what doesn't taken or I guess I guess we can go back to this because my take is like.
+
+31 "Hargreaves, Harry" (2365752320)
+00:04:42.604 --> 00:04:48.684
+I just I just choose something from the, from the projects page.
+
+32 "Krushel, Cole" (110619392)
+00:04:48.684 --> 00:04:53.602
+Sure.
+
+33 "Ruan, Amanda" (578597632)
+00:04:53.602 --> 00:05:16.042
+I will go next. I worked on the Figma for the profile page and I think that's all the wireframes that we need. So I haven't started the about us page yet, but I'll do that sometime next weekend.
+
+34 "Yau, Caitlin" (2685351168)
+00:05:16.042 --> 00:05:17.361
+Okay.
+
+35 "Krushel, Cole" (110619392)
+00:05:17.361 --> 00:05:19.046
+Yeah.
+
+36 "Baimel, Jackson" (4169642240)
+00:05:19.046 --> 00:05:47.689
+For me, this past week, I I recorded the the meeting and then I uploaded that. I sent in a pull request for adding that to the data to the github. I also added a documentation folder for that to go in so there would be a documentation folder, then that there's a stand UPS folder and then I have all the stuff from this. I split into two different files. There's a markdown folder where I put the summary that.
+
+37 "Baimel, Jackson" (4169642240)
+00:05:47.689 --> 00:06:19.183
+That Webex generates plus the, there's like highlights that it creates like timestamps, and then there's a 2nd file where it just dumps the entire transcripts, which is just again taken from the recording. This meeting's being recorded as well the same thing again, and then I didn't do anything with the terms of service or anything. That's the plan for next week for me. Sounds good.
+
+38 "Yau, Caitlin" (2685351168)
+00:06:19.183 --> 00:06:34.465
+And for me, I worked on the homepage, so I'm doing the HTML and CSS at the same time, so I already did about like half of the homepage and I'll finish it for next time.
+
+39 "Voynovich, Matthew" (4077600256)
+00:06:34.465 --> 00:06:36.886
+Yeah.
+
+40 "Krushel, Cole" (110619392)
+00:06:36.886 --> 00:06:46.327
+Sounds good. Yeah, I think I think we can call it.
+
+41 "Baimel, Jackson" (4169642240)
+00:06:46.327 --> 00:06:50.945
+Yeah, I think we're good. Someone could approve my pull request that.
+
+42 "Voynovich, Matthew" (4077600256)
+00:06:50.945 --> 00:06:55.487
+Yeah, I was just looking at that right now. I I was right about too.
+
+43 "Baimel, Jackson" (4169642240)
+00:06:55.487 --> 00:06:56.887
+Oh nice.
+
+44 "Voynovich, Matthew" (4077600256)
+00:06:56.887 --> 00:07:00.788
+I just decided to check.
+
+45 "Baimel, Jackson" (4169642240)
+00:07:00.788 --> 00:07:03.104
+From now on, if you want to like ever.
+
+46 "Voynovich, Matthew" (4077600256)
+00:07:03.104 --> 00:07:09.947
+Drop it in the discord that like you have a pull request just for someone to look at it.
+
+47 "Baimel, Jackson" (4169642240)
+00:07:09.947 --> 00:07:13.187
+That's fine. I'll do that.
+
+48 "Voynovich, Matthew" (4077600256)
+00:07:13.187 --> 00:07:22.146
+Yeah, so.
+
+49 "Krushel, Cole" (110619392)
+00:07:22.146 --> 00:07:26.943
+Alright.
+
+50 "Hargreaves, Harry" (2365752320)
+00:07:26.943 --> 00:07:29.140
+Okay, sounds good.
+
+51 "Krushel, Cole" (110619392)
+00:07:29.140 --> 00:07:32.385
+Yeah. Okay, have a good weekend, everybody.
+
+52 "Voynovich, Matthew" (4077600256)
+00:07:32.385 --> 00:07:35.270
+Yeah, you too. Alright.
+
+53 "Yau, Caitlin" (2685351168)
+00:07:35.270 --> 00:07:39.806
+So.
+
+54 "Baimel, Jackson" (4169642240)
+00:07:39.806 --> 00:07:47.568
+Okay.

@@ -1,0 +1,141 @@
+WEBVTT
+
+1 "Voynovich, Matthew" (1601939968)
+00:00:36.204 --> 00:00:40.688
+Hello. Hello?
+
+2 "Ruan, Amanda" (3308436224)
+00:00:40.688 --> 00:00:42.341
+Hello.
+
+3 "Voynovich, Matthew" (1601939968)
+00:00:42.341 --> 00:01:08.790
+Right, I can talk about what I did. I, I seem, I think I finished everything. I haven't or I finished most of the stuff. I'm just tweaking some little things. I'll probably have that pull request by I know I said I have it by my like like Monday, but I got wrapped up with other work I'll probably get it done either tonight or tomorrow night.
+
+4 "Voynovich, Matthew" (1601939968)
+00:01:08.790 --> 00:01:27.120
+And it'll have the profile page and the history pulling, all that. It just won't have the review stuff, but I'd assume that the way we would just do reviews is cool we'd have at the end of a thing Both people read each other and.
+
+5 "Voynovich, Matthew" (1601939968)
+00:01:27.120 --> 00:01:49.939
+We would just add two columns to each user's thing where it's just number of reviews and then total points and whenever you display you just round it to like, I don't know if you wanna round it to like the .5 or something like that like nearest point, I don't know. We can figure it out, but you would just divide the total score by the number of reviews.
+
+6 "Krushel, Cole" (637004288)
+00:01:49.939 --> 00:02:06.410
+Yeah, I mean you can handle the routing. I mean, I guess this on my end I've I've gotten the like so the the route display works now like it shows the routes between the.
+
+7 "Krushel, Cole" (637004288)
+00:02:06.410 --> 00:02:24.960
+On the status, like if you make the driver and the longermat, laundramat, like the driver and the user shows that on the map, and now it actually can't finishing the trip actually works and it like the database keeps track of whether it's finished or or if it's canceled by the driver.
+
+8 "Krushel, Cole" (637004288)
+00:02:24.960 --> 00:02:43.290
+It's like a status column that it's, it also gets added to the history so that's just that's just like one more column on the history if you don't mind, it looks like whether the trip was finished or canceled.
+
+9 "Krushel, Cole" (637004288)
+00:02:43.290 --> 00:03:01.230
+I added that to the database but so like that's basically fully functioned. So I think I'd like the review thing because right now like when a trip is finished.
+
+10 "Krushel, Cole" (637004288)
+00:03:01.230 --> 00:03:27.381
+It's like it just gets added to the history and that's it, so it might be, it'd be good to like get like the user that confirm that they like acknowledge this and combine that with like the the rating form, so that's what I worked on for, for next month.
+
+11 "Hargreaves, Harry" (1542221312)
+00:03:27.381 --> 00:03:53.100
+Yeah, so I finished making, I made all the pages like PHP, and like did all the like session day stuff. I think this was the last time but I'm kind of like I didn't commit it yet, and, but I'm I'm I'm done, so I'll I'll do that in like a 2nd.
+
+12 "Hargreaves, Harry" (1542221312)
+00:03:53.100 --> 00:04:16.173
+And then I also started working on the, like the new like styling with colors and stuff, and I'll continue working on that for the next meeting.
+
+13 "Yau, Caitlin" (1772598272)
+00:04:16.173 --> 00:04:42.209
+For me, I can working a little on the homepage and like making it look better and I also added stars for the reviews that can be changed whenever you have reviews too. Yeah, that's it.
+
+14 "Ruan, Amanda" (3308436224)
+00:04:42.209 --> 00:05:07.139
+I'm finished the functionality for the concept form, I think the PR was merged so yeah that's basically done, I could like make the environment like an environment variable for the password and the PHP file, but.
+
+15 "Ruan, Amanda" (3308436224)
+00:05:07.139 --> 00:05:38.872
+I don't know how necessary it is cause that's not the actual password to the email, but yeah. And then, I remember call you said that you wanted like the Figma mocks for the schedule page. I did make some, but I'm not sure like like how like which pages you want specifically, like which pages you have.
+
+16 "Krushel, Cole" (637004288)
+00:05:38.872 --> 00:05:44.369
+Yeah, I'm looking at the figma right now.
+
+17 "Krushel, Cole" (637004288)
+00:05:44.369 --> 00:06:03.809
+Okay. Oh yeah. Okay I think I, I was I was thinking wanted to ask someone to make like a thing for the instructions, but I see you have that already Okay.
+
+18 "Krushel, Cole" (637004288)
+00:06:03.809 --> 00:06:22.679
+If I don't want to, Yeah I see this, do we want, I don't know if we ever decided.
+
+19 "Krushel, Cole" (637004288)
+00:06:22.679 --> 00:06:42.679
+If the like the onus of like accepting drivers is on the driver's side or the user side? Because like right now it's like automatic, right? There's NO like confirmation on either side and do we think we want like the user because I think it's like to find new driver. Do you want like the user to be able to confirm with the.
+
+20 "Krushel, Cole" (637004288)
+00:06:42.679 --> 00:06:46.051
+To be able to confirm him.
+
+21 "Voynovich, Matthew" (1601939968)
+00:06:46.051 --> 00:07:03.449
+I agree with what Jackson said where I think it's fine for now. I think if we should just get the like functionality working 1st and then if we have time before the final presentation, we can add a confirmation and probably I'd assume we put it on the.
+
+22 "Voynovich, Matthew" (1601939968)
+00:07:03.449 --> 00:07:32.609
+Just like how Uber does it, we'd put it on the user side rather than the drivers. Just so like because I feel like it's more on like I feel yeah we can mention in the next steps I was gonna say, I think it's more so like depends on like whether the user is comfortable with them based on like their star rating and whatnot rather than because like the driver I guess would Well, do you have it just auto.
+
+23 "Krushel, Cole" (637004288)
+00:07:32.609 --> 00:07:37.574
+Comparing them or yeah it's automa it's I guess the closest driving right now.
+
+24 "Voynovich, Matthew" (1601939968)
+00:07:37.574 --> 00:07:56.214
+Well, I think the way that Uber does it is like the drivers get paired and then they accept and then the user would accept, so I guess the way would be like both ones, both parties would have to accept 1st.
+
+25 "Krushel, Cole" (637004288)
+00:07:56.214 --> 00:07:57.835
+Yeah, we.
+
+26 "Voynovich, Matthew" (1601939968)
+00:07:57.835 --> 00:08:09.993
+So like it would continue with the auto pairing mindset, but, like the driver would have to accept, and if he doesn't, then it would move on to the next closest driver or something like that.
+
+27 "Krushel, Cole" (637004288)
+00:08:09.993 --> 00:08:13.234
+Yeah, I mean they can do that way more about that later.
+
+28 "Voynovich, Matthew" (1601939968)
+00:08:13.234 --> 00:08:20.297
+Yeah, I think auto pairing is fine for now.
+
+29 "Krushel, Cole" (637004288)
+00:08:20.297 --> 00:08:28.037
+Yeah.
+
+30 "Voynovich, Matthew" (1601939968)
+00:08:38.394 --> 00:08:49.618
+Anyone have anything else? I know that Jackson said all his stuff in the chat.
+
+31 "Ruan, Amanda" (3308436224)
+00:08:49.618 --> 00:08:52.075
+I think we're good?
+
+32 "Voynovich, Matthew" (1601939968)
+00:08:52.075 --> 00:08:58.436
+Okay, see it, I guess we'll see everyone Friday.
+
+33 "Krushel, Cole" (637004288)
+00:08:58.436 --> 00:09:00.021
+Sure.
+
+34 "Voynovich, Matthew" (1601939968)
+00:09:00.021 --> 00:09:01.384
+Yeah.
+
+35 "Ruan, Amanda" (3308436224)
+00:09:01.384 --> 00:09:10.728
+Bye. Goodbye. Bye bye.

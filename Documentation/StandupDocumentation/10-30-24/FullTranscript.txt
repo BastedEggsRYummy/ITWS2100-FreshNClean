@@ -1,0 +1,337 @@
+WEBVTT
+
+1 "Krushel, Cole" (1628320768)
+00:03:36.327 --> 00:03:45.270
+Did he ever respond when he told him bringing to meet today?
+
+2 "Hargreaves, Harry" (1921153792)
+00:03:45.270 --> 00:03:53.546
+He said that he should be able to, but he might be like a little late because he has like a meeting right before. So he said he needs to rush them out.
+
+3 "Krushel, Cole" (1628320768)
+00:03:53.546 --> 00:04:14.090
+Okay.
+
+4 "Hargreaves, Harry" (1921153792)
+00:12:34.007 --> 00:12:43.787
+Does anyone want to try messaging Callihant again?
+
+5 "Voynovich, Matthew" (2817138688)
+00:12:43.787 --> 00:13:04.489
+I can ping him and just be like, I I don't know, I can ping him be like, NO rush. Just wondering if you're still free to come to the meeting today.
+
+6 "Voynovich, Matthew" (2817138688)
+00:14:44.489 --> 00:14:48.477
+Yeah, looks like he'll come at some point.
+
+7 "Callahan, Brian Robert" (3423239168)
+00:23:47.097 --> 00:23:49.916
+Hello?
+
+8 "Voynovich, Matthew" (2817138688)
+00:23:49.916 --> 00:23:51.972
+Are you telling.
+
+9 "Callahan, Brian Robert" (3423239168)
+00:23:51.972 --> 00:24:21.613
+So long they finally just got out the door. All right, so, same deal as last time, same general four questions as last time and then I'll let you go. So it should not take super long. So we'll just go down one by one. So the 1st question for you all is what is something that you liked about this sprint?
+
+10 "Voynovich, Matthew" (2817138688)
+00:24:21.613 --> 00:24:28.499
+Do you want us to, do you want us to text it again?
+
+11 "Callahan, Brian Robert" (3423239168)
+00:24:28.499 --> 00:24:31.635
+Sorry, what was that you were kind of breaking up there.
+
+12 "Voynovich, Matthew" (2817138688)
+00:24:31.635 --> 00:24:39.060
+Oh, I was saying, do you want us to test those? Do you want us all to just go one by one?
+
+13 "Callahan, Brian Robert" (3423239168)
+00:24:39.060 --> 00:24:57.519
+We'll just do them in order. So everyone just go down the line and then once everyone answers this one, then I'll ask the next one. So what did it? One thing that everybody liked about this sprint.
+
+14 "Voynovich, Matthew" (2817138688)
+00:24:57.519 --> 00:25:01.679
+Great.
+
+15 "Voynovich, Matthew" (2817138688)
+00:25:01.679 --> 00:25:19.049
+I'm watching all the these things work together. Yeah like functioning it's like.
+
+16 "Voynovich, Matthew" (2817138688)
+00:25:19.049 --> 00:25:35.382
+Pretty soon.
+
+17 "Krushel, Cole" (1628320768)
+00:25:35.382 --> 00:25:43.357
+I'm gonna be honest, I didn't really understand anything you said.
+
+18 "Callahan, Brian Robert" (3423239168)
+00:25:43.357 --> 00:25:47.037
+You not understand anything that I said? No, not.
+
+19 "Krushel, Cole" (1628320768)
+00:25:47.037 --> 00:25:48.017
+Matthew.
+
+20 "Callahan, Brian Robert" (3423239168)
+00:25:48.017 --> 00:25:55.439
+For your audio is kind of in and out.
+
+21 "Voynovich, Matthew" (2817138688)
+00:25:55.439 --> 00:25:59.440
+Group like a window.
+
+22 "Krushel, Cole" (1628320768)
+00:25:59.440 --> 00:26:03.279
+Okay.
+
+23 "Callahan, Brian Robert" (3423239168)
+00:26:05.496 --> 00:26:07.532
+Okay.
+
+24 "Krushel, Cole" (1628320768)
+00:26:07.532 --> 00:26:36.181
+I really liked how like because everyone was working on their branches independently, when we were able to merge all our stuff into main, it pretty it went like surprisingly well. I feel like a minor hiccup with the resource folder, but we were able to do that and get all of our like different functionalities and like pieces connected together. That's just convenient.
+
+25 "Baimel, Jackson" (2213285120)
+00:26:36.181 --> 00:27:03.652
+Yeah, NO, I clearly agree. I really like being able to see everyone's different parts of the project come together cause I want to say almost all of us working on separate pages. So, there was not a whole lot of overlap, obviously there's links to the other pages and get to refer back to the logistics and whatnot, but all in all it was that was definitely my favorite part.
+
+26 "Hargreaves, Harry" (1921153792)
+00:27:03.652 --> 00:27:27.576
+I'd also say something pretty similar. It's, I mean the project really feels like it's like coming together as we're like metting and feels like everyone's like doing what they're like supposed to and it's like coming together to like having like cohesive like product.
+
+27 "Yau, Caitlin" (3900311296)
+00:27:27.576 --> 00:27:43.358
+Yeah, I feel like I liked how productive this sprint was and yeah, like we got a lot done, I feel like it's almost like we're almost done with the project already, so.
+
+28 "Ruan, Amanda" (1750681856)
+00:27:43.358 --> 00:28:05.877
+Yeah, was that everybody? Okay. Yeah, also liked how we're getting like the website and we're basically done with the front end. We only have like some like functionalities left, so I feel like we're almost reaching like the finish line, so.
+
+29 "Callahan, Brian Robert" (3423239168)
+00:28:06.418 --> 00:28:13.078
+Alright, was that everybody? Matt, do you want to try again maybe?
+
+30 "Voynovich, Matthew" (1567726336)
+00:28:13.078 --> 00:28:47.255
+Okay, I was just saying that I really enjoyed seeing our website become like the functionality is not fully there but I like seeing that there was functionality between pages and that everything was kind of coming together in like a cohesive manner and that like everything had consistent styling and like we had a workflow where we could pass off everything to like where we were able to pass everything along the line where someone would develop like functionality and then it would get styled and then it would come back for like adding little finer details and tweaks.
+
+31 "Callahan, Brian Robert" (3423239168)
+00:28:47.255 --> 00:29:01.935
+Perfect. All right, so that's everyone for question one. Question two is what is something that you learned this sprint?
+
+32 "Voynovich, Matthew" (1567726336)
+00:29:01.935 --> 00:29:06.959
+I ended up learning about I didn't end up using them.
+
+33 "Voynovich, Matthew" (1567726336)
+00:29:06.959 --> 00:29:22.589
+Yet I might still implement. I learned about cron jobs for I wanted to clear the like driver's database for like active locations whenever a user was logged in on the schedule page and.
+
+34 "Voynovich, Matthew" (1567726336)
+00:29:22.589 --> 00:29:51.834
+I would have needed to figure out another way to use it on Xamp because xamp's windows instead of a Linux terminal or Linux server, but I learned about cron jobs and how I could set up a PHP script to automatically clean the database from old users, but for now the implementation I used was just a JavaScript script that ran every minute to update the user's location and it put a timestamp. So right now we're just using the timestamp for location based stuff instead.
+
+35 "Krushel, Cole" (1628320768)
+00:29:51.834 --> 00:30:25.179
+I learned about the, that you can use PHP sessions to store data for a like conquer data for one like connection to the database because I previously used like local storage which stored the store things in the browser like like a cookie, but it didn't realize there's like a similar PHP implementation you could use as well. I'm not sure which is better, but.
+
+36 "Baimel, Jackson" (2213285120)
+00:30:25.179 --> 00:30:43.199
+I know for me, I read through most of the Uber legal documents. I was using them as a baseline, but I read through again all of the community guidelines for Uber and I was looking through every single section, seeing what's useful, seeing what's not.
+
+37 "Baimel, Jackson" (2213285120)
+00:30:43.199 --> 00:31:04.720
+And they're very thorough. They cover a lot of things that I hadn't thought about and there are things that we've thought about that aren't in there. So that documented being very long and I mean like I knew it would be long, but just seeing how long it ended up being was eye opening.
+
+38 "Yau, Caitlin" (3900311296)
+00:31:04.720 --> 00:31:06.993
+Okay.
+
+39 "Hargreaves, Harry" (1921153792)
+00:31:06.993 --> 00:31:37.619
+So, I guess I got to learn about like writing up the like documentation for like a website on and like showing on GitHub and making sure that it's clear and visible for like users that wanna come in and like observe it but I also got to learn like more about like using bootstrap too, like, or like how to make websites good.
+
+40 "Yau, Caitlin" (3900311296)
+00:31:37.619 --> 00:31:55.635
+I don't know how much technical stuff I learned because I mainly worked with HTML CSS and I already know how to do most of that stuff, but I guess I learned how to more effectively manage my time.
+
+41 "Ruan, Amanda" (1750681856)
+00:31:55.635 --> 00:32:18.573
+I learned how, like, I figured out like some other alternatives to like xamp because that didn't work on my Mac. So I found like two other alternatives like running it in the terminal, and then using like MAMP, so that was very helpful.
+
+42 "Callahan, Brian Robert" (3423239168)
+00:32:18.573 --> 00:32:38.039
+Alright, so the next question is, what is something that you lacked this sprint?
+
+43 "Voynovich, Matthew" (1567726336)
+00:32:38.039 --> 00:33:05.599
+I think in certain aspects I lacked a little bit of like foresight because for certain implementations, I had to like go back and change the database columns a bunch because like something would come up where I would think about, like, oh, we need this data for this thing and oh we should probably have profile pictures and do I put that on the login form or should I make that.
+
+44 "Voynovich, Matthew" (1567726336)
+00:33:05.599 --> 00:33:23.159
+In the profile page where they can edit it and how am I gonna store it as a blog or am I gonna store it as a file path? And there were just a lot of these like scenarios where like something that I still have to add now is like the review, like reviews are like star rating onto the.
+
+45 "Voynovich, Matthew" (1567726336)
+00:33:23.159 --> 00:33:39.035
+User profiles and that's another column that I have to add and I like I don't I'm sure that there's gonna be other columns that I need to figure out that I haven't like thought about yet fully for our implementation.
+
+46 "Krushel, Cole" (1628320768)
+00:33:39.035 --> 00:34:09.616
+I guess I want, I want to admit that I I lacked a bit of discipline specifically and like when implementing features, I kind of like sometimes it feels like I'm just going like just like making it work instead of like having achieving a more like robust solution. It's like, what can I do to make it work now and a couple times it's late to the meetings.
+
+47 "Baimel, Jackson" (2213285120)
+00:34:09.616 --> 00:34:35.899
+For me, I had to reread through one of the documents and partially that was because my original notes and it just weren't thorough enough, they were a pretty brief overview of a lot of them, which was good. I needed to read through all of them. But once I knew what I needed to do, I should have gone back and been more thorough with the stuff I knew I needed to use.
+
+48 "Yau, Caitlin" (3900311296)
+00:34:35.899 --> 00:34:37.934
+Okay.
+
+49 "Hargreaves, Harry" (1921153792)
+00:34:37.934 --> 00:35:06.557
+I feel like I could have, like, worked more like I feel like there was more I could have done, but, like I feel like we're also kind of like out of stuff on our backlog, so we're kind of like just doing like, not like busy work but like stuff that's like leftover and it like yeah.
+
+50 "Yau, Caitlin" (3900311296)
+00:35:06.557 --> 00:35:28.559
+I agree. I also feel like I could have done more because I didn't really know what to do sometimes, but I think when I have nothing to do, I could probably just figure out like some random thing I could add to the project that's not on the Figma or not on like the backlog or anything.
+
+51 "Ruan, Amanda" (1750681856)
+00:35:28.559 --> 00:35:31.229
+Yeah.
+
+52 "Ruan, Amanda" (1750681856)
+00:35:31.229 --> 00:35:49.335
+Same here, I also didn't really have much I feel like I could have done more. That's why I kind of started working on issues and that were for like the next sprint, so yeah.
+
+53 "Yau, Caitlin" (3900311296)
+00:35:49.335 --> 00:35:50.635
+Okay.
+
+54 "Callahan, Brian Robert" (3423239168)
+00:35:50.635 --> 00:36:05.017
+Okay, and then our last question is, what is something that you longed for this sprint?
+
+55 "Hargreaves, Harry" (1921153792)
+00:36:05.017 --> 00:36:08.058
+Can you repeat the question?
+
+56 "Callahan, Brian Robert" (3423239168)
+00:36:08.058 --> 00:36:18.578
+Sure, something that you longed for this sprint.
+
+57 "Voynovich, Matthew" (1567726336)
+00:36:18.578 --> 00:36:21.838
+And like what sense?
+
+58 "Callahan, Brian Robert" (3423239168)
+00:36:21.838 --> 00:36:47.155
+In any sense of that sentence, what is something that you really, really wish you had and didn't have?
+
+59 "Krushel, Cole" (1628320768)
+00:36:47.155 --> 00:37:12.179
+And for me I think so like I'm working with a lot of parts of the google Maps API and some of it was kind of new and so like there was like there was documentation, but there were a lot of like, it wasn't wasn't really like foreign post or anything like people having issues, so it's like when I come into issues, just kind of have to just like think about all the.
+
+60 "Krushel, Cole" (1628320768)
+00:37:12.179 --> 00:37:30.545
+Possible reasons for it and again let's like search search online by people having a similar issue. I guess in a sense that if you log for more like documentation for the these these APIs.
+
+61 "Yau, Caitlin" (3900311296)
+00:37:30.545 --> 00:37:32.306
+Okay.
+
+62 "Ruan, Amanda" (1750681856)
+00:37:32.306 --> 00:37:49.064
+For me, a computer that's not a Mac because figuring out how to get on a Mac took me so long it was so annoying, so, yeah.
+
+63 "Yau, Caitlin" (3900311296)
+00:37:49.064 --> 00:37:55.308
+Okay.
+
+64 "Voynovich, Matthew" (1567726336)
+00:37:55.308 --> 00:38:21.919
+I think for me, it's probably like a more clear direction on like how to like develop more of the like features without like stepping into cole's, work on the scheduling cause I need to be or my plan next was to work on like history and reviews and the functionality with interacting with the database and how those would be displayed on like the history page.
+
+65 "Voynovich, Matthew" (1567726336)
+00:38:21.919 --> 00:38:50.304
+And it's trying to figure out how I can weave that in with Cole's work as he's gonna also need to develop that at the same time for his schedule functionality, and it's I I just haven't figured out quite how we're gonna like work it in with each other and do that.
+
+66 "Baimel, Jackson" (2213285120)
+00:38:50.304 --> 00:39:14.420
+Well, I feel like we've done a really good job coming up with problems that could happen with this app. I wish I, before coming in, I knew better how to map those to things we could write in the app, I guess, because we know like what if someone's healing laundry, right? But where do I write that down? And that's just something I hadn't.
+
+67 "Baimel, Jackson" (2213285120)
+00:39:14.420 --> 00:39:25.193
+So I knew how to do that better before coming in, that would have been helpful, I guess.
+
+68 "Yau, Caitlin" (3900311296)
+00:39:25.193 --> 00:39:28.912
+Okay.
+
+69 "Callahan, Brian Robert" (3423239168)
+00:39:28.912 --> 00:39:33.126
+Who's left? Anybody left?
+
+70 "Yau, Caitlin" (3900311296)
+00:39:33.126 --> 00:39:45.028
+Ilon's for more creativity and more ideas.
+
+71 "Hargreaves, Harry" (1921153792)
+00:39:45.028 --> 00:40:08.010
+I feel like there's not really anything like specific I long for, I guess maybe, I don't know, maybe we could just like plan out further in advance and then move, like, I guess we have stuff for sprint three but like just like.
+
+72 "Hargreaves, Harry" (1921153792)
+00:40:08.010 --> 00:40:26.244
+Stuff to like work on like find up.
+
+73 "Voynovich, Matthew" (1567726336)
+00:40:26.244 --> 00:40:29.325
+You're muted.
+
+74 "Callahan, Brian Robert" (3423239168)
+00:40:29.325 --> 00:40:38.866
+Sorry about that. Do you need my help selecting your final sprint backlog?
+
+75 "Krushel, Cole" (1628320768)
+00:40:38.866 --> 00:40:40.845
+And I did want to ask.
+
+76 "Callahan, Brian Robert" (3423239168)
+00:40:40.845 --> 00:40:45.217
+Really should just be whatever's left at this point.
+
+77 "Krushel, Cole" (1628320768)
+00:40:45.217 --> 00:41:12.326
+Yeah, I did want to ask a question, it's like for the in terms of like the legal documentation is is our project expected to have like a the legal documentation present on the website itself, like a link to that? Or I guess they have like a a page or have like some kind of agreement that users have to like go out manually, like I like I agree to the terms of service or is that like too much?
+
+78 "Callahan, Brian Robert" (3423239168)
+00:41:12.326 --> 00:41:17.067
+I, I think just the page with that info is going to be.
+
+79 "Krushel, Cole" (1628320768)
+00:41:17.067 --> 00:41:21.963
+Good enough. Okay.
+
+80 "Callahan, Brian Robert" (3423239168)
+00:41:21.963 --> 00:41:27.570
+Any other questions?
+
+81 "Callahan, Brian Robert" (3423239168)
+00:41:27.570 --> 00:41:43.986
+Alright, I suppose if not, then you're off to your final sprint, and we'll do this again in a month. All right cool. Thank you everybody.
+
+82 "Krushel, Cole" (1628320768)
+00:41:43.986 --> 00:41:47.688
+All right.
+
+83 "Voynovich, Matthew" (1567726336)
+00:41:47.688 --> 00:41:55.269
+Have a good day. You too. Bye.
+
+84 "Baimel, Jackson" (2213285120)
+00:41:55.269 --> 00:41:59.784
+Okay.

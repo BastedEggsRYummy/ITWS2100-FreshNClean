@@ -1,0 +1,73 @@
+WEBVTT
+
+1 "Yau, Caitlin" (2436242176)
+00:00:00.000 --> 00:00:11.475
+Okay.
+
+2 "Krushel, Cole" (1376824832)
+00:00:11.475 --> 00:00:29.100
+Okay, I think that's everybody, and I'll start I mean it's.
+
+3 "Krushel, Cole" (1376824832)
+00:00:29.100 --> 00:00:47.160
+I don't think anybody got much work done because of the copper exam, but, I mean I just made like a, a pop up for the scheduling on the, on the schedule of laundry later on this schedule page. So that button actually does something then.
+
+4 "Krushel, Cole" (1376824832)
+00:00:47.160 --> 00:00:59.368
+Yeah, Anybody else do anything? Yeah.
+
+5 "Yau, Caitlin" (2436242176)
+00:00:59.368 --> 00:01:09.549
+I didn't do much this week, but I just need to continue working on the homepage, that's all. Yeah.
+
+6 "Baimel, Jackson" (92343808)
+00:01:09.549 --> 00:01:19.832
+Mode. I didn't really do much, but, I'm just gonna continue working on what I was working on before.
+
+7 "Hargreaves, Harry" (73750272)
+00:01:19.832 --> 00:01:48.240
+I, and I think I'm pretty much finished with the like login and create accounts, but, I still just need Matthew to like check with the BHP and then hopefully it's, good. I also did the like CSS and stuff. I couldn't get it exactly like the figma, but I mean I still think it looks pretty good if anyone wants to like check it out. I gotta I guess close to the sorta.
+
+8 "Hargreaves, Harry" (73750272)
+00:01:48.240 --> 00:01:50.071
+That's.
+
+9 "Hargreaves, Harry" (73750272)
+00:01:50.071 --> 00:02:05.171
+In the next week, I'll try to add more to the projects for it and then also like just take whatever isn't taken.
+
+10 "Ruan, Amanda" (2109953536)
+00:02:05.171 --> 00:02:26.552
+I finished the about page, I made a pull request if someone could look at it, that'd be great but yeah i'll pick up some other stuff once I could merge that Sounds like.
+
+11 "Krushel, Cole" (1376824832)
+00:02:26.552 --> 00:02:40.352
+We said to keep working this week some we have time that's probably. Yeah.
+
+12 "Hargreaves, Harry" (73750272)
+00:02:40.352 --> 00:02:46.952
+Don't have anything they want to add? No.
+
+13 "Ruan, Amanda" (2109953536)
+00:02:46.952 --> 00:02:53.830
+Okay.
+
+14 "Hargreaves, Harry" (73750272)
+00:02:53.830 --> 00:02:55.874
+Sounds good. Have a good week.
+
+15 "Krushel, Cole" (1376824832)
+00:02:55.874 --> 00:02:58.632
+Young. Yeah.
+
+16 "Ruan, Amanda" (2109953536)
+00:02:58.632 --> 00:02:59.874
+Bye bye.
+
+17 "Yau, Caitlin" (2436242176)
+00:02:59.874 --> 00:03:02.050
+Right.
+
+18 "Baimel, Jackson" (92343808)
+00:03:02.050 --> 00:03:07.056
+Okay.

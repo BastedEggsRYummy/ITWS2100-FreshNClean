@@ -1,0 +1,197 @@
+WEBVTT
+
+1 "Hargreaves, Harry" (1603098368)
+00:03:24.086 --> 00:03:32.185
+Do you guys wanna start? I think Jackson said he was home and I told might be busier.
+
+2 "Voynovich, Matthew" (2720621824)
+00:03:32.185 --> 00:03:59.840
+Yeah, that's fine with me, I haven't worked on anything since the presentation. I'm planning on working on the change email. I'm planning on letting them or updating the login page to have like create account if you don't have one already, like the thing to jump to the different page. I'm planning on doing the profile picture implementation where i'll.
+
+3 "Voynovich, Matthew" (2720621824)
+00:03:59.840 --> 00:04:23.150
+Start to get it uploading the files onto our VM and then storing the file paths in our users. I'll probably also start I'll update the tables to have the review like stars and maybe I'll make a review table just for like Cole's scheduling implementation cause I know he was mentioning wanting to do that.
+
+4 "Voynovich, Matthew" (2720621824)
+00:04:23.150 --> 00:04:38.786
+Other than that, I don't know I'm just gonna be working on other backend stuff that Cole is planning on implementing and working with him.
+
+5 "Hargreaves, Harry" (1603098368)
+00:04:38.786 --> 00:05:00.770
+All right, that sounds good. I tried to like find the, like the old like all information that was talking about I couldn't really find it so I went to office hours and only never showed up for like the 2 h so I'll try again.
+
+6 "Voynovich, Matthew" (2720621824)
+00:05:00.770 --> 00:05:06.927
+So Amanda fixed that. I'm pretty sure that yeah oh ok.
+
+7 "Hargreaves, Harry" (1603098368)
+00:05:06.927 --> 00:05:19.644
+Never mind then, and then I'm also starting the like validation for the pages to show everything and validates.
+
+8 "Yau, Caitlin" (3327867648)
+00:05:28.505 --> 00:05:30.659
+U.
+
+9 "Yau, Caitlin" (3327867648)
+00:05:30.659 --> 00:05:54.679
+I fixed the schedule for the HCSS so that the header and footer sits properly now and I put the link for the pull request in the in the chat. And then also I started working on the history page and I'll continue working on that next time soon.
+
+10 "Ruan, Amanda" (1281590528)
+00:05:54.679 --> 00:06:09.899
+Yeah, so since last sprint I made the wire frames for the history page as well as the pop up for like more launching information and I also fixed the issue that.
+
+11 "Ruan, Amanda" (1281590528)
+00:06:09.899 --> 00:06:26.609
+Harry was talking about earlier about the two resources folder and then I plan to continue working on the contact form getting that working. Is there anything else that people need help with?
+
+12 "Ruan, Amanda" (1281590528)
+00:06:26.609 --> 00:06:33.857
+Okay.
+
+13 "Voynovich, Matthew" (2720621824)
+00:06:33.857 --> 00:06:41.835
+I don't personally have anything that I know of right now.
+
+14 "Ruan, Amanda" (1281590528)
+00:06:41.835 --> 00:06:47.034
+Okay, anything, how's that?
+
+15 "Hargreaves, Harry" (1603098368)
+00:06:47.034 --> 00:07:02.816
+I got a question for like the session data. I don't know if this is it gonna update like the login button on the other to like the profile page or like city profile or something?
+
+16 "Voynovich, Matthew" (2720621824)
+00:07:02.816 --> 00:07:30.611
+So I can I can do that for each of the headers and add some logic so that for every page, once you're logged in, instead of login it changes to profile and I don't know if we would want it to be a profile button or like a profile like the same way that we have underlined for like the schedule page and everything, if we would rather it be underlined instead. But I can work on that.
+
+17 "Hargreaves, Harry" (1603098368)
+00:07:30.611 --> 00:07:40.538
+And also is the history page link from the profile page or is that from also like that once you log in?
+
+18 "Voynovich, Matthew" (2720621824)
+00:07:40.538 --> 00:08:03.140
+I was thinking it would be linked from the profile page because you would need to be logged in to view your own history And I feel like in most applications you get to like a history page through like settings or like profile. So I think it's fine to just leave it linked through the profile page. Okay.
+
+19 "Hargreaves, Harry" (1603098368)
+00:08:03.140 --> 00:08:07.780
+That's good. Is there anything like do you need help with that?
+
+20 "Voynovich, Matthew" (2720621824)
+00:08:07.780 --> 00:08:17.519
+Maybe you could start creating the, if you wouldn't mind start creating the like actual page, you don't need to add any of the logic in because.
+
+21 "Voynovich, Matthew" (2720621824)
+00:08:17.519 --> 00:08:34.561
+Cole hasn't finished the scheduling, so we don't have anything stored in the database, but we could make like a template database and you could just like try adding logic for pulling from it if you wanted to do that or you could just make the wireframe and I can implement the backend logic for.
+
+22 "Hargreaves, Harry" (1603098368)
+00:08:34.561 --> 00:08:36.575
+The Profiler for the.
+
+23 "Voynovich, Matthew" (2720621824)
+00:08:36.575 --> 00:08:47.841
+It's for the history page, like follow the template that Amanda made and then I can do like the back end logic where I like prepare it for polling.
+
+24 "Hargreaves, Harry" (1603098368)
+00:08:47.841 --> 00:08:50.457
+Working on that.
+
+25 "Voynovich, Matthew" (2720621824)
+00:08:50.457 --> 00:08:57.280
+Oh yeah never mind. My bad. I forgot I'm so out of it, sorry.
+
+26 "Hargreaves, Harry" (1603098368)
+00:08:57.280 --> 00:08:59.432
+Okay, well.
+
+27 "Voynovich, Matthew" (2720621824)
+00:08:59.432 --> 00:09:08.762
+I don't know if there's any other pages that we need to work on. Oh, do we need a review page or something?
+
+28 "Hargreaves, Harry" (1603098368)
+00:09:08.762 --> 00:09:10.711
+It's a matter of what.
+
+29 "Voynovich, Matthew" (2720621824)
+00:09:10.711 --> 00:09:27.167
+No cause remember on our taskbar we have wait, let me look at what our taskbar is again. I think our taskbar has a review page. Does it not?
+
+30 "Ruan, Amanda" (1281590528)
+00:09:27.167 --> 00:09:28.929
+What do you mean by taskbar? Like the.
+
+31 "Voynovich, Matthew" (2720621824)
+00:09:28.929 --> 00:09:34.846
+3rd like the the footer, sorry. I don't know why I'm saying taskbar. Yeah. I was thinking to just link it to.
+
+32 "Ruan, Amanda" (1281590528)
+00:09:34.846 --> 00:09:42.449
+To the review section on the homepage. Okay.
+
+33 "Hargreaves, Harry" (1603098368)
+00:09:42.449 --> 00:09:45.469
+Yeah, I.
+
+34 "Voynovich, Matthew" (2720621824)
+00:09:45.469 --> 00:09:54.107
+Yeah, that's fine. That's fine. I, I just wasn't sure if people were intending to do something else.
+
+35 "Hargreaves, Harry" (1603098368)
+00:09:54.107 --> 00:09:57.310
+Is there a way to submit reviews?
+
+36 "Voynovich, Matthew" (2720621824)
+00:09:57.310 --> 00:10:22.526
+No, the thing is, I don't know if you're talking about reviews for like the entire application or if you're talking about reviews for like a specific driver or anything cause the driver's stuff would probably have to come after coal and you'd have to figure out how to like work that in with him if you wanted to work on that.
+
+37 "Hargreaves, Harry" (1603098368)
+00:10:22.526 --> 00:10:31.826
+Okay, I guess I can ask next time or if I see him or something or I can whatever.
+
+38 "Yau, Caitlin" (3327867648)
+00:10:31.826 --> 00:10:37.627
+Okay.
+
+39 "Voynovich, Matthew" (2720621824)
+00:10:37.627 --> 00:10:46.859
+You could potentially start, I don't know if we're gonna.
+
+40 "Voynovich, Matthew" (2720621824)
+00:10:46.859 --> 00:11:12.570
+Like maybe once again Jackson's not here so you could potentially ask him, like, how he was wanting to store like the document, the legal documents and like display them so you could ask him like if he wanted separate pages for that and maybe work on some of those, not like with any of the information but just like creating the template for him to put stuff into.
+
+41 "Hargreaves, Harry" (1603098368)
+00:11:12.570 --> 00:11:18.527
+Yeah, that's probably a good idea. Okay, I'll I'll message him.
+
+42 "Yau, Caitlin" (3327867648)
+00:11:18.527 --> 00:11:25.209
+Okay.
+
+43 "Hargreaves, Harry" (1603098368)
+00:11:27.030 --> 00:11:29.909
+Is that it? Everything else?
+
+44 "Voynovich, Matthew" (2720621824)
+00:11:29.909 --> 00:11:32.248
+I don't have anything else.
+
+45 "Ruan, Amanda" (1281590528)
+00:11:32.248 --> 00:11:36.830
+Yeah, I think that's it.
+
+46 "Voynovich, Matthew" (2720621824)
+00:11:36.830 --> 00:11:39.291
+Yeah.
+
+47 "Yau, Caitlin" (3327867648)
+00:11:39.291 --> 00:11:41.205
+Okay. Bye guys.
+
+48 "Hargreaves, Harry" (1603098368)
+00:11:41.205 --> 00:11:42.248
+Fire.
+
+49 "Ruan, Amanda" (1281590528)
+00:11:42.248 --> 00:11:48.876
+Goodbye. Bye.

@@ -1,0 +1,221 @@
+WEBVTT
+
+1 "Voynovich, Matthew" (34769664)
+00:00:02.957 --> 00:00:21.120
+Okay.
+
+2 "Hargreaves, Harry" (3299831296)
+00:00:44.297 --> 00:01:01.417
+No, I'm still in commons. No I don't know, I just. Can you hear me alright? Yeah.
+
+3 "Krushel, Cole" (612555264)
+00:01:01.417 --> 00:01:03.498
+Yeah, everything.
+
+4 "Voynovich, Matthew" (34769664)
+00:01:03.498 --> 00:01:20.000
+That's good.
+
+5 "Voynovich, Matthew" (34769664)
+00:01:20.000 --> 00:01:48.380
+Okay, uh.
+
+6 "Voynovich, Matthew" (34769664)
+00:01:48.380 --> 00:02:19.280
+Okay, uh.
+
+7 "Voynovich, Matthew" (34769664)
+00:02:19.280 --> 00:02:39.280
+Okay, uh.
+
+8 "Voynovich, Matthew" (34769664)
+00:02:39.280 --> 00:02:59.280
+Okay, uh.
+
+9 "Voynovich, Matthew" (34769664)
+00:02:59.280 --> 00:03:19.280
+Okay, uh.
+
+10 "Voynovich, Matthew" (34769664)
+00:03:19.280 --> 00:03:40.934
+Yeah, do we wanna wait for everyone or do we wanna just start it because the transcript will have.
+
+11 "Baimel, Jackson" (2696309504)
+00:03:40.934 --> 00:03:52.221
+I say we just start because like I mean, frankly, I nearly missed the meeting because of the different time, it just didn't register, so he might not be coming or she might not be coming.
+
+12 "Voynovich, Matthew" (34769664)
+00:03:52.221 --> 00:03:54.620
+Yeah, that makes sense. Yeah, let's.
+
+13 "Krushel, Cole" (612555264)
+00:03:54.620 --> 00:03:55.159
+Yeah.
+
+14 "Voynovich, Matthew" (34769664)
+00:03:55.159 --> 00:03:58.979
+And I I don't think Kelly Hen's really gonna be checking it fully.
+
+15 "Krushel, Cole" (612555264)
+00:03:58.979 --> 00:04:01.941
+No. It's in a while, it's.
+
+16 "Baimel, Jackson" (2696309504)
+00:04:01.941 --> 00:04:06.781
+Fine it's like, it's not a big deal. Yeah.
+
+17 "Voynovich, Matthew" (34769664)
+00:04:06.781 --> 00:04:29.780
+Alright, I can start talking about what I did and what I'm gonna be working on. So I set up the three tables in the database for the website and I linked them with like primary keys and foreign keys, and I'll just continue to update them as we think about new fields that we need.
+
+18 "Voynovich, Matthew" (34769664)
+00:04:29.780 --> 00:04:51.619
+Need for either like the providers as in like the people driving to the laundry mats or doing laundry at their own houses. I'll also be right now I'm working on the create account form and linking that to the database with creating the whole account thing, and I'll probably work on another form.
+
+19 "Voynovich, Matthew" (34769664)
+00:04:51.619 --> 00:05:08.801
+For creating like the provider thing, but I was thinking that we lock that behind like the terms of service in Eula so like people have to read that if they're gonna be like the quote unquote independent contractors.
+
+20 "Krushel, Cole" (612555264)
+00:05:08.801 --> 00:05:17.478
+Maybe and we can worry about that later yeah and that sounds like a fine ending.
+
+21 "Voynovich, Matthew" (34769664)
+00:05:17.478 --> 00:05:21.578
+Yeah, other than that I don't really have anything else.
+
+22 "Krushel, Cole" (612555264)
+00:05:21.578 --> 00:05:35.789
+I So I I got the, the Google Maps API integration to work. I just used a different Google account and that worked. So I got like.
+
+23 "Krushel, Cole" (612555264)
+00:05:35.789 --> 00:05:56.487
+Got the map to display and go in your location and all, but now I need to search for launch formats and display that on the map. That's the next thing you do. That's pretty much it.
+
+24 "Hargreaves, Harry" (3299831296)
+00:05:56.487 --> 00:06:13.079
+So, so I've started working on the headers and footers for like the CSA of like all I guess all the pages, and I also, I don't know if we.
+
+25 "Hargreaves, Harry" (3299831296)
+00:06:13.079 --> 00:06:29.969
+I forgot if we talked about it, but I, I also added like a bootstrap like library and, like, a jquery stuff I don't and I made like a resource folder, so I guess we can all access that like I'll put it in the resource folder in the main.
+
+26 "Hargreaves, Harry" (3299831296)
+00:06:29.969 --> 00:06:47.039
+Like, I I don't know if they call it like the biggest like the very top of the information architecture. I don't know I guess we move that. I don't know if that's the best place, but then also I guess I'll plan to, I can keep.
+
+27 "Hargreaves, Harry" (3299831296)
+00:06:47.039 --> 00:07:12.999
+Working on HTML and like CSS has like more things come up in our projects page and then also I will, like, I was like working with Matthew and he I am gonna do the login page for like the and stuff like that. So, yeah.
+
+28 "Baimel, Jackson" (2696309504)
+00:07:12.999 --> 00:07:38.399
+For me, I uploaded the last set of transcripts, so the transcript and the highlights plus the summary from, from Webex, it's the same format as the other one. There should be a pull request in there. I'm not sure if someone merged it for this coming week, I'm gonna do the same thing. Plus I'll actually get started on some of the more urgent.
+
+29 "Baimel, Jackson" (2696309504)
+00:07:38.399 --> 00:07:55.169
+App stuff, like the, I'll actually start the legal stuff. I've just that off a little bit, but now that we have the documentation stuff down, we'll be in a, a good space for, I don't know, showing that to call hand. Oh, something else as well.
+
+30 "Baimel, Jackson" (2696309504)
+00:07:55.169 --> 00:08:15.169
+I figured, maybe not this meeting, but starting next meeting, I want to send out or between now and next meeting I want to send out in invites to dr. callahan plus tas and include them in the Webex group so, they can join the, these calls and just send out an opening open invitation.
+
+31 "Baimel, Jackson" (2696309504)
+00:08:15.169 --> 00:08:28.676
+To them. Maybe I'll go up to handing class and say, hey, here's what we've been doing. We've had three of these. You're welcome to join the rest of them. Here's the schedule. Hopefully that's good with you guys, but figure it that way. Yeah cool.
+
+32 "Krushel, Cole" (612555264)
+00:08:28.676 --> 00:08:33.933
+Yeah, why not? I mean, this, this is NO chance he does join, but that's a good idea.
+
+33 "Baimel, Jackson" (2696309504)
+00:08:33.933 --> 00:08:45.431
+Yeah, I'll probably join like one random one in like two weeks and we're not expecting it, but I Yeah, I'd be surprised we joined. That's it for me though.
+
+34 "Yau, Caitlin" (1567570688)
+00:08:45.431 --> 00:08:55.033
+Oh, by the way, if you, if you're committing Webex stuff, I don't think you need to do a pull request. You're just committed to me.
+
+35 "Krushel, Cole" (612555264)
+00:08:55.033 --> 00:08:55.856
+Million.
+
+36 "Baimel, Jackson" (2696309504)
+00:08:55.856 --> 00:08:57.013
+Alright, yeah, I can.
+
+37 "Voynovich, Matthew" (34769664)
+00:08:57.013 --> 00:09:07.514
+Yeah, that's I think that's probably fine. I think it's the same it's in the same fashion as a read me where it's not actual code, so it's not something that someone needs to review.
+
+38 "Baimel, Jackson" (2696309504)
+00:09:07.514 --> 00:09:12.149
+Okay, that's fair. I'll definitely start doing the pull request.
+
+39 "Yau, Caitlin" (1567570688)
+00:09:12.149 --> 00:09:23.634
+Yeah, for me, I've just continued working on the home page and like the styling of it. Yeah, that's it.
+
+40 "Voynovich, Matthew" (34769664)
+00:09:23.634 --> 00:09:26.232
+Yeah.
+
+41 "Hargreaves, Harry" (3299831296)
+00:09:26.232 --> 00:09:35.129
+I have a question. Do we need to create release for like for like stuff we're doing for this?
+
+42 "Krushel, Cole" (612555264)
+00:09:35.129 --> 00:09:42.012
+I think so and like he does want us to site. We probably just need to leave like a work.
+
+43 "Voynovich, Matthew" (34769664)
+00:09:42.012 --> 00:10:05.530
+Working log with like citations and stuff. I don't think we need to like create a new one each time, but if we just had like a readme folder and like the base level direct, we're probably gonna need one read me folder just for like how the application works, but then we can have a 2nd readme folder or a read me folder for each of our personal stuff containing working logs.
+
+44 "Hargreaves, Harry" (3299831296)
+00:10:05.530 --> 00:10:07.722
+Okay, that sounds good.
+
+45 "Baimel, Jackson" (2696309504)
+00:10:07.722 --> 00:10:15.034
+Yeah, good idea.
+
+46 "Hargreaves, Harry" (3299831296)
+00:10:15.034 --> 00:10:18.712
+Is that correct?
+
+47 "Krushel, Cole" (612555264)
+00:10:18.712 --> 00:10:20.534
+I guess so.
+
+48 "Voynovich, Matthew" (34769664)
+00:10:20.534 --> 00:10:24.992
+I, I merged your pull request Jackson, by the way.
+
+49 "Baimel, Jackson" (2696309504)
+00:10:24.992 --> 00:10:31.189
+Oh, sick, thank you. Yeah. That'll be the last one of those. I'll just commit to main. Yeah.
+
+50 "Voynovich, Matthew" (34769664)
+00:10:31.189 --> 00:10:41.910
+Sounds good. Alright, I think I think we're all done here or does anyone have anything else they want to say?
+
+51 "Baimel, Jackson" (2696309504)
+00:10:41.910 --> 00:10:47.133
+I'm good. Right.
+
+52 "Voynovich, Matthew" (34769664)
+00:10:47.133 --> 00:10:48.788
+Goodbye Bye.
+
+53 "Yau, Caitlin" (1567570688)
+00:10:48.788 --> 00:10:52.052
+Look at like the rear fair anyone.
+
+54 "Voynovich, Matthew" (34769664)
+00:10:52.052 --> 00:10:54.708
+Yeah. Yeah.
+
+55 "Voynovich, Matthew" (34769664)
+00:10:54.708 --> 00:11:05.532
+If you're gonna, good luck, good luck bang, Mike.

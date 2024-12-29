@@ -1,0 +1,61 @@
+WEBVTT
+
+1 "Voynovich, Matthew" (1097487104)
+00:05:51.223 --> 00:06:10.379
+Start, ok, I'll start going then, I worked and finished on all the stuff from sprint one with the profile.
+
+2 "Voynovich, Matthew" (1097487104)
+00:06:10.379 --> 00:06:40.954
+And with the login and create accounts, I'm currently working on the script for each driver to get their location updated in the new table every minute or so, and then I'm also working on a PHP script that's going to use a cron job to clean the active users tables so that we're not leaving old users locations everywhere.
+
+3 "Krushel, Cole" (1448907264)
+00:06:40.954 --> 00:07:07.429
+I mean the interface with the map on the schedule a lot clearer and I haven't set up that basically all I need is just like the actual driver's database to like pull and display from and that part can be finished pretty quickly. I guess what I have yet to do is implement the the driver view for that part of the site.
+
+4 "Krushel, Cole" (1448907264)
+00:07:07.429 --> 00:07:31.724
+That shouldn't work on this. No.
+
+5 "Hargreaves, Harry" (3712781568)
+00:07:31.724 --> 00:07:49.469
+Last one or like previously I've done I did like I created the new I I'm starting like the documentation, also I I made the email, but I need to put that in somewhere so but I haven't made. Oh, I had a question from Amanda about that, so.
+
+6 "Hargreaves, Harry" (3712781568)
+00:07:49.469 --> 00:08:06.869
+I wanted to put it on like the, like in the plan in the Figma it was like supposed to be on the about us page, and I was wondering if like if it was like, I was looking at it like on the GitHub and I wasn't sure if it was like done or ready to be put on.
+
+7 "Hargreaves, Harry" (3712781568)
+00:08:06.869 --> 00:08:26.869
+Yeah, but then also I like in the future I will continue working on the documentation and I guess I can also do like whatever you need for the presentation that we have coming up.
+
+8 "Baimel, Jackson" (1812287488)
+00:08:51.985 --> 00:09:13.499
+My part, I just worked on what I said I was gonna finish with the looking at the legal documents for Uber, we got that done and then I pushed all that to the github. So now we have a list of, I wanna say it's like six or seven of them that I need to recreate, added that to the status board and I started working on the community guidelines.
+
+9 "Yau, Caitlin" (1932470016)
+00:09:20.881 --> 00:09:36.929
+I didn't really do much for the project. I did I think I finished the homepage last time and I haven't picked something else to work on yet, but I also, I worked on the presentation. I think it's in the discrewed if you guys didn't see it.
+
+10 "Voynovich, Matthew" (1097487104)
+00:10:40.545 --> 00:10:45.620
+Does that mean that we're all done then? Or just someone else.
+
+11 "Krushel, Cole" (1448907264)
+00:10:45.620 --> 00:10:53.564
+Things to add I think we're good. Yeah I think we're.
+
+12 "Baimel, Jackson" (1812287488)
+00:10:53.564 --> 00:10:55.638
+Right. All right, sounds good.
+
+13 "Hargreaves, Harry" (3712781568)
+00:10:55.638 --> 00:10:56.834
+See as a.
+
+14 "Voynovich, Matthew" (1097487104)
+00:10:56.834 --> 00:10:58.701
+One class. Are they good.
+
+15 "Krushel, Cole" (1448907264)
+00:10:58.701 --> 00:11:06.101
+But.

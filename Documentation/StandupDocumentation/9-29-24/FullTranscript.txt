@@ -1,0 +1,153 @@
+WEBVTT
+
+1 "Yau, Caitlin" (3980439040)
+00:02:23.139 --> 00:02:27.466
+Hi Jackson. How's your day going?
+
+2 "Baimel, Jackson" (372351744)
+00:02:27.466 --> 00:02:30.547
+Okay, it's going pretty well, you know, that's.
+
+3 "Yau, Caitlin" (3980439040)
+00:02:30.547 --> 00:02:37.326
+It's good sending the email.
+
+4 "Ruan, Amanda" (3420457728)
+00:02:37.326 --> 00:02:38.663
+So.
+
+5 "Yau, Caitlin" (3980439040)
+00:02:38.663 --> 00:02:41.748
+Hi Alanda, how's your day going?
+
+6 "Ruan, Amanda" (3420457728)
+00:02:41.748 --> 00:02:44.846
+Alright, I'm just tired.
+
+7 "Yau, Caitlin" (3980439040)
+00:02:44.846 --> 00:02:50.926
+Me too. Oh my gosh, I got 12 h of sleep last night. It's pretty bad.
+
+8 "Ruan, Amanda" (3420457728)
+00:02:50.926 --> 00:02:57.264
+Sound noise.
+
+9 "Yau, Caitlin" (3980439040)
+00:02:57.264 --> 00:03:02.024
+It's not worth it though. It's, it's really not.
+
+10 "Ruan, Amanda" (3420457728)
+00:03:02.024 --> 00:03:05.120
+The sleep. Yeah.
+
+11 "Baimel, Jackson" (372351744)
+00:03:05.120 --> 00:03:09.322
+Yeah, there's like NO downside to 12 h of sleep. Sounds awesome.
+
+12 "Yau, Caitlin" (3980439040)
+00:03:09.322 --> 00:03:16.557
+Well, the downside is I woke up at 02:00 P.M. and I like did nothing today.
+
+13 "Baimel, Jackson" (372351744)
+00:03:16.557 --> 00:03:25.485
+Oh, oh, there.
+
+14 "Ruan, Amanda" (3420457728)
+00:03:25.485 --> 00:03:46.280
+Okay, uh.
+
+15 "Ruan, Amanda" (3420457728)
+00:09:26.280 --> 00:09:38.210
+Okay, uh.
+
+16 "Voynovich, Matthew" (3202393344)
+00:09:38.210 --> 00:10:00.687
+Okay.
+
+17 "Baimel, Jackson" (372351744)
+00:10:00.687 --> 00:10:06.209
+Alright, we're all here, so I'd say we just get started.
+
+18 "Baimel, Jackson" (372351744)
+00:10:06.209 --> 00:10:25.529
+So, this past week I uploaded the the meeting notes. I didn't get a chance to talk to dr. Callaham or the two days, so I'll send him an email or DM or something just because of in person might be a little bit dicey, but I'm just running it out.
+
+19 "Baimel, Jackson" (372351744)
+00:10:25.529 --> 00:10:42.479
+Okay, NO I'd prefer to do that. I also started the legal stuff, so I made a branch, I started putting stuff in there. Right now I'm looking at Uber and Uber Eats just to get a handle on what they do, just to make sure don't fall into any.
+
+20 "Baimel, Jackson" (372351744)
+00:10:42.479 --> 00:11:10.718
+Yeah. Big pitchballs and I also started looking at it. They collect a lot of data, so if we wanted to, look into how we could legally like collect people's data, that could be something interesting. Yeah. Yeah so I'm gonna keep looking at the legal stuff, I'll do the meeting notes and I'll reach out to the professor.
+
+21 "Voynovich, Matthew" (3202393344)
+00:11:10.718 --> 00:11:35.925
+I was gonna say that I've continued to just work on the, like account creation form and been looking into more things that I might need to add to the database, but other than that, I haven't had much time to work on more stuff this week.
+
+22 "Hargreaves, Harry" (831716608)
+00:11:35.925 --> 00:11:46.289
+So this week I worked on, the header and footers and just like stuff that would go on like every page. So I like made a resource folder and.
+
+23 "Hargreaves, Harry" (831716608)
+00:11:46.289 --> 00:12:02.219
+Like putting in like the CSS and stuff that like in the like the main, like, like one from the route so that every page can just access it easily and then.
+
+24 "Hargreaves, Harry" (831716608)
+00:12:02.219 --> 00:12:28.664
+Also, I'm going like coming up in the, for the next like week working on I guess I still need to finish the, the PHP for the login and, I guess also just push the code.
+
+25 "Ruan, Amanda" (3420457728)
+00:12:28.664 --> 00:12:52.349
+So I started working on the about us page or the our story page. I wrote up like what we wanted to put on the page like the short description for that. It's on the Figma if anyone wants to read it over and I don't know, just proofread and stuff.
+
+26 "Ruan, Amanda" (3420457728)
+00:12:52.349 --> 00:13:09.329
+And as for like the form, we have like a contact form on the page. Do we want to use a form or do we wanna just like put like create an email for the project and.
+
+27 "Ruan, Amanda" (3420457728)
+00:13:09.329 --> 00:13:38.444
+Just put the email, because if we do the concept form, I think we would have to do like more PHP and like database stuff. So I don't know if we want to focus, like, R and G on that or the more like essential functions of the app.
+
+28 "Hargreaves, Harry" (831716608)
+00:13:38.444 --> 00:13:47.949
+I think an email would be easier and also just like also like work, so I'm in favor of that.
+
+29 "Ruan, Amanda" (3420457728)
+00:13:47.949 --> 00:14:00.370
+Alright, I just put the email then.
+
+30 "Krushel, Cole" (1009445888)
+00:14:00.370 --> 00:14:20.849
+Okay, and I've I've got the, I've got the Google Places integration so now it'll like it puts markers on the maps for like nearby launchments, but like right now it just puts like info windows. So I need to come up with like a good.
+
+31 "Krushel, Cole" (1009445888)
+00:14:20.849 --> 00:14:51.088
+A good way to select the laundry map that also preferably doesn't involve clicking on the map. So I think I'll make like a section to the side to display, like more details about the laundry mats that the user can select from there instead of selecting from the map, and they can say like in the map as well.
+
+32 "Yau, Caitlin" (3980439040)
+00:14:51.088 --> 00:15:04.084
+I just continued to work on the homepage. Yeah, I'll continue working on that next time.
+
+33 "Ruan, Amanda" (3420457728)
+00:15:04.084 --> 00:15:12.281
+Okay.
+
+34 "Hargreaves, Harry" (831716608)
+00:15:12.281 --> 00:15:18.668
+Alright, is, is that good, are we good? Does anybody have anything else they want to add?
+
+35 "Voynovich, Matthew" (3202393344)
+00:15:18.668 --> 00:15:24.628
+I think I'm good unless everyone, anyone else has something to say.
+
+36 "Baimel, Jackson" (372351744)
+00:15:24.628 --> 00:15:28.244
+Yeah. Wow.
+
+37 "Voynovich, Matthew" (3202393344)
+00:15:28.244 --> 00:15:31.708
+Alright, goodbye. Bye.
+
+38 "Krushel, Cole" (1009445888)
+00:15:31.708 --> 00:15:35.039
+Bye. Bye. Bye. Bye.

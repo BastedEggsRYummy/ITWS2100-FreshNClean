@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@100;200;300;400;500;600;700;800;900&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+
+* {
+    font-family: "Encode Sans Expanded", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+body {
+   margin: 0;
+}
+
+header {
+   width: 100%;
+   height: 50px;
+   background-color: grey;
+
+}
+footer {
+   background-color: grey;
+   margin-top: 30px;
+}
+.buttondiv {
+   display: flex;
+   justify-content: space-around;
+   /* margin-top: 200px; */
+}
+button:hover {
+   cursor: pointer;
+}
+#getlaundry {
+   color: white;
+   padding: 20px;
+   font-size: 20px;
+   margin-left: 25px;
+}
+#schedulelaundry {
+   color: white;
+   padding: 20px;
+   border: none;
+   font-size: 20px;;
+}
+#displaymap {
+   height: 400px;
+}
+main {
+   /* background-color: aliceblue; */
+   margin-bottom: 30px;
+}
+main h1 {
+   margin-top: 0px;
+   padding-top: 50px;
+   text-align: center;
+}
+#status {
+   text-align: center;
+   font-size: 30px;
+}
+#map {
+   height: 500px;
+   width: 50%;
+   display: inline-block;
+   margin-left: 50px;
+}
+#laundromats {
+   display: none;
+   width: 50%;
+   margin: 0 50px;
+}
+#laundromats div {
+   border: 2px solid black;
+   border-radius: 10px;;
+   /* border: 3px inset blue; */
+   text-align: center;
+   padding: 0 5px;
+   margin: 20px 0;   
+   box-shadow: 5px 5px;
+}
+#laundromats div:hover {
+   cursor: pointer;
+   background-color: skyblue;
+}
+#mapcontent {
+   margin-right: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+#schedulepopup {
+   position: absolute;
+   display: block;
+   top: 20%;
+   left: 40%;
+   width: 20%;
+   background-color: skyblue;
+   padding: 20px;
+   visibility: hidden;
+}
+#schedulepopup *{
+   display: block;
+   margin: 10px;
+}
+#schedulepopup input {
+   width: 100px;
+}
+.delbutton {
+   position: absolute;
+   top: -10px;
+   right: 0px;
+   font-size: 30px;
+   color: red;
+   font-family: 'Courier New', Courier, monospace;
+}
+.delbutton:hover {
+   cursor: pointer;
+}
+#driverdiv {
+   width: 20%;
+   margin: 0 auto;
+   display: block;
+   text-align: center;
+   border: 2px outset black;
+   border-radius: 10%;
+   background-color: white;
+   visibility: hidden;
+   margin-bottom: 50px;
+}
+#driverdiv img {
+   height: 80px;
+   width: 80px;
+}
+#loadinggif {
+   height: 50px;
+}
+header {
+   height: 75px;
+}
+.driverbuttons {
+   display: none;
+   justify-content: space-around;
+   width: 60%;
+}
+.driverbuttons button {
+   padding: 20px;
+   font-size: 20px;
+}
+#cancelTrip {
+   background-color: red;
+   border-color: white;;
+}
+.customerbuttons {
+   display: none;
+   justify-content: space-around;
+   width: 100%;
+}
+#status {
+   margin: 30px 0px;
+}
+#driverdiv img {
+   display: block;
+   margin: 0 auto;
+}
+#startshift {
+   padding: 20px;
+   font-size: 20px;
+}
+.ratePopup {
+   border: 1px solid black;
+   border-radius: 5%;
+   margin: 0 auto;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   background-color: white;
+   padding: 10px;
+   visibility: hidden;
+}
+.ratePopup div {
+   display: inline-block;
+   margin-left: 10px;
+}
+.ratePopup img {
+   width: 40px;
+}
+#starDiv {
+   position: absolute;
+   top: 50px;
+}
+.checked {
+   color: orange;
+}
+.fa-star:hover {
+   color: orange;
+}
+/* instructions */
+#instructions input, select, textarea{
+      height: 40px;
+      border-radius: 8px;
+      border-color: #ccc;
+      border-width: 2px;
+      padding: 5px 10px;
+}
+#instructions input {
+   width: 100px;
+}
+#instructions select {
+   width: fit-content;
+}
+#instructions textarea {
+   width: 100%;
+}
+
+#instructions label{
+   font-family: "Inter", sans-serif;
+   font-style: normal;
+   padding: 16px 0 8px 0;
+}
+
+#instructions {
+   visibility: hidden;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   border: 2px solid #D9D9D9;
+   border-radius: 8px;
+   background-color: #D9D9D9;
+   padding: 40px;
+   position: absolute;
+}
+
+#washerAndDryer {
+   display: flex;
+   flex-direction: row;
+   gap: 60px;
+}
+
+#additional {
+   height: 150px;
+}
+
+#instructionssubmit{
+   width: 100%;
+   height: 48px;
+   margin-top: 16px;
+   background-color: black;
+   color: white;
+   border-radius: 8px;
+}
+
+#instructionssubmit:hover {
+   background-color: #424649;
+}

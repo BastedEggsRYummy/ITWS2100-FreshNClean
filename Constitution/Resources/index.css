@@ -1,0 +1,218 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+
+  margin: 0;
+  padding: 0;
+
+  scroll-behavior: smooth;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-size: cover;
+  align-items: center;
+  background-color: #2C2C2C;
+  
+}
+
+/* Navbar */
+#navigation {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  top:0;
+  left:0;
+  width: 100%;
+  padding: 1em 5em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+  background-color: #5c5470;
+}
+.navbar a{
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  font-size: 1.4em;
+  color: #dbd8e3;
+  font-weight: 500;
+  text-decoration: none;
+  margin-left: 1.5em;
+}
+
+.navbar a::before{
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  content: "";
+  position: absolute;
+  top: 100%;
+  left:0;
+  width: 0;
+  height: 0.125em;
+  background: #dbd8e3;
+  transition: .3s;
+}
+
+.navbar a:hover::before{ 
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  width:100%;
+}
+
+.logo{
+  width:80px;
+  height: 80px;
+}
+
+/* End navbar */
+
+#body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10em;
+}
+
+h1.italianno-regular{
+  color:#dbd8e3;
+  font-size: 7em;
+  margin-bottom: 10px;
+}
+h2.italianno-regular{
+  color:#dbd8e3;
+  font-size: 5em;
+  margin-bottom: 10px;
+
+}
+.container {
+  margin-top: 20em;
+  padding: 20px;
+  background-color: #dbd8e3;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 50%;
+  margin: 20px;
+  border-radius: 1em;
+  transition: background-color 0.3s ease;
+  transition: max-height 0.5s ease-out, padding 0.5s ease-out;
+}
+
+.container h1{
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  color: #2a2438;
+}
+
+.container:hover {
+  background-color: #c5bbdd; 
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #352f44;
+}
+
+#articleContent, #amendmentContent {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;   
+  justify-content: center; 
+  width: 100%;             
+  padding: 20px;           
+  box-sizing: border-box;   
+}
+/* Annotations */
+.annotations{
+  display: none;
+}
+div.displayAnnotations p.annotations{
+  display:block;
+}
+/* TOC */
+button {
+  display: block;
+  position: fixed;
+  background-color: #2a2438;
+  color: white;
+  left: 0px;
+  top: 120px;
+  padding: 10px;
+}
+button:hover {
+  cursor: pointer;
+}
+
+#toc {
+  border: 2px solid black;
+  border-style: outset;
+  left: 0px;
+  background-color: #5c5470;
+  color: white;
+  top: 160px;
+  bottom:0;
+  position:fixed;
+  overflow-y:scroll;
+  overflow-x:hidden;
+}
+#toc h1 {
+  padding: 20px;
+}
+#toc h2 {
+  padding: 10px;
+  text-align: center;
+}
+#toc a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: White;
+}
+
+.active {
+  
+  animation-name: openTOC;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+.unactive {
+  display: none;
+  animation-name: closeTOC;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes openTOC {
+  from {
+    left: -300px;
+    display: none;
+  }
+  to {
+    left: 0px;
+    display: block;
+  }
+}
+
+@keyframes closeTOC {
+  from {
+    left: 0px;
+    display: block;
+  }
+  to {
+    left: -320px;
+    display: none;
+  }
+}
+
+.last{
+  padding-bottom: 50px;
+}
+/* fonts */
+.italianno-regular {
+  font-family: "Italianno", cursive;
+  font-weight: 400;
+  font-style: normal;
+}

@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#content {
+    margin: 50px 80px;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+b {
+    margin-left: 0;
+}
+
+.sub-heading {
+    font-size: 40px;
+    margin-top: 70px;
+}
+
+h3 {
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.button {
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-size: 20px;
+}
+
+.button:hover {
+    background-color: #333;
+}
+
+#laundry-image {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.columns {
+    display: flex;
+}
+
+.attribute {
+    display: flex;
+    width: 33%;
+    flex-direction: column;
+    text-align: center; 
+}
+
+.FAQ {
+    display: flex;
+    width: 50%;
+    flex-direction: column; /* Stack the image and text vertically */
+}
+
+.FAQ button {
+    width: 50%;
+}
+
+#card{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+}
+
+#review {
+    flex: 0 0 32%; margin: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+}
+
+img {
+    object-fit: cover;
+}
+
+.CGTitle {
+    justify-content: center;
+}

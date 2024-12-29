@@ -1,0 +1,181 @@
+WEBVTT
+
+1 "Krushel, Cole" (476709632)
+00:00:13.409 --> 00:00:29.670
+Alright, I guess I'll start. So, I'm glad to say that that the main functionality is finally working in that now when you you have a driver who is like in a.
+
+2 "Krushel, Cole" (476709632)
+00:00:29.670 --> 00:00:46.710
+You'd like in an active site when it's another as a user when they search for you like finally like search for a driver that information gets passed along to the driver on his.
+
+3 "Krushel, Cole" (476709632)
+00:00:46.710 --> 00:01:04.067
+On his page. So like that communication is there. There isn't really any UI happening here, that's gonna work on for the rest of this week, but the all the database stuff finally worse now.
+
+4 "Voynovich, Matthew" (3134371840)
+00:01:04.067 --> 00:01:10.440
+Nice. I've just been working on like the profile page and.
+
+5 "Voynovich, Matthew" (3134371840)
+00:01:10.440 --> 00:01:30.440
+Like getting the, profile pictures working and just continuing to work on that. I've been more focused on Calihant's stupid 300 page reading assignment but I've just been working on that. I'm assuming I'll get that done this weekend, probably have that.
+
+6 "Voynovich, Matthew" (3134371840)
+00:01:30.440 --> 00:01:51.920
+And the I'll probably implement the star rating 1st or like just in the database to begin with 1st and then I'll probably try and work on a review thing. I can also, if you have the history working cool, I can probably just start trying to get the history page working and pulling onto the history page that's being made.
+
+7 "Krushel, Cole" (476709632)
+00:01:53.147 --> 00:02:09.885
+Yeah, I mean it's got so like I have the and like an active trips database with like a bunch of parameters I'm thinking when when the like when the driver mark marks the trip is finished, it'll be like moved to the history database instead.
+
+8 "Voynovich, Matthew" (3134371840)
+00:02:09.885 --> 00:02:24.387
+Yeah, that works and then I can just pull from there and display things. Yeah, that's great. Other than that, I don't really have anything else.
+
+9 "Yau, Caitlin" (2988751616)
+00:02:24.387 --> 00:02:39.787
+Yeah, I got the history page working with the pop up and I'll create a pull request soon. I just need to fix some styling.
+
+10 "Baimel, Jackson" (3658143744)
+00:02:39.787 --> 00:03:03.363
+For me, I uploaded the transcript notes from the last couple of meetings, including the one with and I also continued doing the stuff that we do before with the other I guess legal documents. I'm gonna keep that.
+
+11 "Hargreaves, Harry" (3002155520)
+00:03:03.363 --> 00:03:20.550
+I finished the community guidelines page and like if you edit it Jackson all there's there's like sections like some comments to like add more and whatever, like for whenever you're ready.
+
+12 "Hargreaves, Harry" (3002155520)
+00:03:20.550 --> 00:03:44.853
+And then, I don't really, so I I do have a question though. Do we need to start like do I need to, like I can work on some pages like I don't know if there's any like driver's specific pages that need to be made that we haven't like done yet, like one for them to see like the the orders that are like need to be done or like something like that.
+
+13 "Baimel, Jackson" (3658143744)
+00:03:44.853 --> 00:04:07.883
+We probably should. I mean, that's kind of implied the functionality. I know I've been writing stuff that like pertains to them like from their perspective, so, yeah. And also I look at the the stuff that you did with the beauty guidance page.
+
+14 "Hargreaves, Harry" (3002155520)
+00:04:07.883 --> 00:04:26.131
+Oh, I think I meant more like for like not not in regards to like the legal stuff, but I actually I kind of missed what you were saying, but like the, like, like, you know how the, like the in the schedule page there's.
+
+15 "Voynovich, Matthew" (3134371840)
+00:04:26.131 --> 00:04:28.369
+Like you like.
+
+16 "Krushel, Cole" (476709632)
+00:04:28.369 --> 00:04:31.981
+Yeah, yeah, I mean like there is a driver view. I'm working on that.
+
+17 "Krushel, Cole" (476709632)
+00:04:33.544 --> 00:04:36.367
+But only on the schedule page, I don't think any.
+
+18 "Voynovich, Matthew" (3134371840)
+00:04:36.367 --> 00:05:12.666
+You maybe have a slight change in like how things are stated on like the history page like then you would just change which column is like 1st cause it would be like, I feel like usually the history page would display like new and then the other user or like the provider, you could maybe get it so that it switches provider and like use like and the requester or something like that.
+
+19 "Krushel, Cole" (476709632)
+00:05:12.666 --> 00:05:30.594
+I, I mean, I think it might be I might be good if like on even on the profile profile it changes, it shows whether this user or driver logged in because when I was like testing it, like half the time I was like am I logged in as a user or a driver? And I'd like check the database to make to confirm.
+
+20 "Voynovich, Matthew" (3134371840)
+00:05:30.594 --> 00:05:33.051
+Yeah, that makes sense, that would be a good idea.
+
+21 "Krushel, Cole" (476709632)
+00:05:33.051 --> 00:05:48.131
+And I guess also, I think I made like an issue on GitHub, but like the login button doesn't change after you log in, like it still says login. That's kind of confusing like should just say like profile or.
+
+22 "Voynovich, Matthew" (3134371840)
+00:05:48.131 --> 00:05:54.711
+Or something. Yeah, yeah, yeah. I was thinking of trying to get all that done in regards to it this weekend.
+
+23 "Krushel, Cole" (476709632)
+00:05:54.711 --> 00:05:57.472
+Yeah, I mean you don't have to do anyone can do that.
+
+24 "Voynovich, Matthew" (3134371840)
+00:05:57.472 --> 00:06:01.048
+Yeah.
+
+25 "Hargreaves, Harry" (3002155520)
+00:06:01.048 --> 00:06:09.369
+Does anybody like have any like anything that they want to be done?
+
+26 "Voynovich, Matthew" (3134371840)
+00:06:09.369 --> 00:06:22.526
+Yeah, I mean you could do what Cole just said where you switch like on the where you have the, like Navar switch to like profile when you're already logged in.
+
+27 "Krushel, Cole" (476709632)
+00:06:22.526 --> 00:06:25.051
+Yeah, cause it just says login.
+
+28 "Voynovich, Matthew" (3134371840)
+00:06:25.051 --> 00:06:42.488
+And then you could also go onto the like login page and I guess the create page too, and have it like take you back to each other with like you know how most login things have like a little blue text under where it says.
+
+29 "Krushel, Cole" (476709632)
+00:06:42.488 --> 00:06:45.329
+Create yeah.
+
+30 "Voynovich, Matthew" (3134371840)
+00:06:45.329 --> 00:06:50.711
+You could, you could put that in cause that's not currently there. Yeah.
+
+31 "Hargreaves, Harry" (3002155520)
+00:06:50.711 --> 00:06:57.428
+Okay, would then would the Navar thing be like with the session data though? And like the.
+
+32 "Voynovich, Matthew" (3134371840)
+00:06:57.428 --> 00:07:00.287
+Yes, it would be.
+
+33 "Hargreaves, Harry" (3002155520)
+00:07:00.287 --> 00:07:01.250
+Okay.
+
+34 "Krushel, Cole" (476709632)
+00:07:01.250 --> 00:07:03.771
+Yeah, I guess it's just like I can help with that.
+
+35 "Voynovich, Matthew" (3134371840)
+00:07:03.771 --> 00:07:11.928
+If you do need, I have like a little template if statement that would basically do it for you.
+
+36 "Hargreaves, Harry" (3002155520)
+00:07:11.928 --> 00:07:24.373
+Okay. All right.
+
+37 "Ruan, Amanda" (1077562112)
+00:07:24.373 --> 00:07:30.299
+Yeah, 1st week I like tested the contact page and I found out that like.
+
+38 "Ruan, Amanda" (1077562112)
+00:07:30.299 --> 00:07:56.587
+Using just using the mail function for PHP, like doesn't actually send the emails to Google or like any Gmail account because like it has filtered or something. So it just filters all of them out, so I'm gonna try like using PHP mailer or some other thing to see if that works, but yeah.
+
+39 "Voynovich, Matthew" (3134371840)
+00:07:56.587 --> 00:08:12.179
+Yeah, I don't have anything else on this. I'll get people too.
+
+40 "Krushel, Cole" (476709632)
+00:08:19.410 --> 00:08:20.569
+Alright.
+
+41 "Voynovich, Matthew" (3134371840)
+00:08:20.569 --> 00:08:22.129
+I'll see.
+
+42 "Krushel, Cole" (476709632)
+00:08:22.129 --> 00:08:25.292
+Good luck on the lab, everybody.
+
+43 "Voynovich, Matthew" (3134371840)
+00:08:25.292 --> 00:08:27.349
+Bye.
+
+44 "Baimel, Jackson" (3658143744)
+00:08:27.349 --> 00:08:28.685
+Good.
+
+45 "Krushel, Cole" (476709632)
+00:08:28.685 --> 00:08:35.844
+Thanks. Bye.

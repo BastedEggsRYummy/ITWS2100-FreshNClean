@@ -1,0 +1,265 @@
+WEBVTT
+
+1 "Voynovich, Matthew" (879892224)
+00:08:36.085 --> 00:08:40.886
+Yeah, do we wanna just start talking?
+
+2 "Voynovich, Matthew" (879892224)
+00:08:43.223 --> 00:08:59.662
+Yeah, I don't know if he's gonna come at all.
+
+3 "Hargreaves, Harry" (3276204544)
+00:08:59.662 --> 00:09:03.222
+Yeah.
+
+4 "Voynovich, Matthew" (879892224)
+00:09:03.222 --> 00:09:12.181
+We'll have to create a new project backlog for we might have to do that. We might have to do that.
+
+5 "Voynovich, Matthew" (879892224)
+00:09:15.444 --> 00:09:20.240
+I kind of have to go soon so I don't know if I can like do it right now but Yeah I was gonna say I don't know about.
+
+6 "Hargreaves, Harry" (3276204544)
+00:09:20.240 --> 00:09:22.900
+Doing it right now. I still need to do comp work homework.
+
+7 "Ruan, Amanda" (3436701440)
+00:09:22.900 --> 00:09:25.480
+Yeah.
+
+8 "Voynovich, Matthew" (879892224)
+00:09:25.480 --> 00:09:35.857
+I feel like we have some of it. Yeah, we have some of it currently, but I I can I'm sure we can add to it all on our own at some point. Like we.
+
+9 "Ruan, Amanda" (3436701440)
+00:09:35.857 --> 00:09:40.761
+What we want to do for this month. Yeah, we also need to finish.
+
+10 "Voynovich, Matthew" (879892224)
+00:09:40.761 --> 00:09:55.216
+Like, like the 1st sprint. Yeah, yeah.
+
+11 "Ruan, Amanda" (3436701440)
+00:09:55.216 --> 00:10:00.646
+Okay.
+
+12 "Hargreaves, Harry" (3276204544)
+00:10:00.646 --> 00:10:02.177
+Okay.
+
+13 "Voynovich, Matthew" (879892224)
+00:10:02.177 --> 00:10:20.759
+Yeah, I think so. I haven't done any real work on the group projects since our meeting with Callihan cause I was doing the lab and I submitted that at 1156 last night, so.
+
+14 "Voynovich, Matthew" (879892224)
+00:10:20.759 --> 00:10:28.288
+I'm very close to the edge.
+
+15 "Ruan, Amanda" (3436701440)
+00:10:28.288 --> 00:10:46.623
+Yeah, I also didn't add much I have the basics of the page done, for the image, do we want to pull like the logo or like a a good photo?
+
+16 "Voynovich, Matthew" (879892224)
+00:10:46.623 --> 00:10:53.541
+Oh, I don't know. What do you guys think? I don't think a group photo would be bad. We.
+
+17 "Ruan, Amanda" (3436701440)
+00:10:53.541 --> 00:10:55.166
+Could probably get that done at.
+
+18 "Voynovich, Matthew" (879892224)
+00:10:55.166 --> 00:10:57.722
+At some point. Yeah, we're gonna do that later.
+
+19 "Ruan, Amanda" (3436701440)
+00:10:57.722 --> 00:11:05.146
+Yeah, yeah, I'll go over it again and then I'll make a pull request when.
+
+20 "Voynovich, Matthew" (879892224)
+00:11:05.146 --> 00:11:24.149
+The pages done. Oh yeah, now that I got the lab done, I have a lot of the like PHP that we would be using anyways from my labs that I can just like bring over. And then I think I figured out session data, which is just.
+
+21 "Voynovich, Matthew" (879892224)
+00:11:24.149 --> 00:11:42.501
+Basically allowing us to keep data from different pages as we move along, so I would be able to like keep user's profile information that we could just drop onto each page and have that stuff for like scheduling and stuff like that.
+
+22 "Ruan, Amanda" (3436701440)
+00:11:42.501 --> 00:11:43.621
+Okay.
+
+23 "Hargreaves, Harry" (3276204544)
+00:11:43.621 --> 00:12:02.189
+Yeah, that sounds good. I also did not really do much. I did some more just like random HTML or like, for the other page I was working on. I still need to do CSS for.
+
+24 "Hargreaves, Harry" (3276204544)
+00:12:02.189 --> 00:12:26.536
+Like the login and create account pages. I gotta forgot about that and I think that's pretty much it. I, I'm Also I think I created a pull request for the PHP that I wrote and I don't really know if it's right. So.
+
+25 "Voynovich, Matthew" (879892224)
+00:12:26.536 --> 00:12:30.544
+I don't know if you already checked that out, but, at some point.
+
+26 "Hargreaves, Harry" (3276204544)
+00:12:30.544 --> 00:12:42.723
+In the middle of checking it out, but the lab yesterday kind of had me. Yeah yeah it being yesterday was screwing me. Okay, that's pretty much it.
+
+27 "Baimel, Jackson" (2978894848)
+00:12:42.723 --> 00:13:02.601
+I also haven't really done much, I, I got caught up in all the same stuff with the web system. This coming week though I'm planning on continuing on what I was doing last week, Nothing crazy there.
+
+28 "Krushel, Cole" (2230285312)
+00:13:02.601 --> 00:13:40.881
+Yeah, Yeah sorry I'm still just working on the, on the this like the search scheduling page and trying to see if there's some, some like a kind of pretty way to display the markers on the map because right now they kind of cover each other. I'm looking for that and have we, we need to have like, I guess a separate meeting to decide what we're gonna do with the, how are we gonna handle the driver's side of the of the website? Like, are you gonna make like driver views?
+
+29 "Voynovich, Matthew" (879892224)
+00:13:40.881 --> 00:14:08.101
+Or is that like its own page? So I I was kind of thinking about that in regards to the session data and stuff. So I was already thinking about having like a separate account feature for driver stuff and like creating that and then I'd probably have it where you can, where you either log into your, like, user account or your driver account and that changes how the page looks.
+
+30 "Krushel, Cole" (2230285312)
+00:14:08.101 --> 00:14:24.079
+So I guess probably. Okay, so you can log in with the driver and then I'm just thinking for the like laundry selection process, once the person select neither selects a laundry, a.
+
+31 "Voynovich, Matthew" (879892224)
+00:14:24.079 --> 00:14:26.642
+It's supposed to select a driver.
+
+32 "Krushel, Cole" (2230285312)
+00:14:26.642 --> 00:14:34.063
+Yeah, like will, I'm just thinking because that's.
+
+33 "Voynovich, Matthew" (879892224)
+00:14:34.063 --> 00:14:36.641
+Probably gonna be done by location?
+
+34 "Krushel, Cole" (2230285312)
+00:14:36.641 --> 00:14:50.279
+Yeah, the same way it is. So it's like each driver, but then it's either it's like a number in a database representing the location or there's some way to.
+
+35 "Krushel, Cole" (2230285312)
+00:14:50.279 --> 00:15:11.241
+Handle the, like, what drivers are like active? Maybe that can be another entry in a database, like a driver's table, and when the drive when the user clicks get, when they're searching for a driver, it just carries all the active drivers from the.
+
+36 "Voynovich, Matthew" (879892224)
+00:15:11.241 --> 00:15:19.935
+Table and select the closest one. Yeah, that might be the best option. I I don't know what.
+
+37 "Krushel, Cole" (2230285312)
+00:15:19.935 --> 00:15:34.958
+I'll I'll figure that out with you. We can figure out how to create the database and how we want that. I don't, I mean I imagine we could implement like a real time thing, but that'd be.
+
+38 "Voynovich, Matthew" (879892224)
+00:15:34.958 --> 00:15:38.314
+It's Significantly more difficult?
+
+39 "Krushel, Cole" (2230285312)
+00:15:38.314 --> 00:16:00.617
+Yeah, that also seems beyond the scope of this course. Yeah, I don't really want to do it but I don't know how to. We can just use database links. That's why I find yeah we can worry about that later. I'll keep working on them. Well I'll work on the like the.
+
+40 "Voynovich, Matthew" (879892224)
+00:16:00.617 --> 00:16:06.155
+Schedule schedule an advanced part now. Yeah.
+
+41 "Yau, Caitlin" (70765824)
+00:16:06.155 --> 00:16:18.999
+Yeah, for me, I did some changes to the HTML and CSS of the homepage.
+
+42 "Voynovich, Matthew" (879892224)
+00:16:18.999 --> 00:16:22.643
+Yeah, that's it. Okay.
+
+43 "Krushel, Cole" (2230285312)
+00:16:22.643 --> 00:16:26.035
+Yeah.
+
+44 "Voynovich, Matthew" (879892224)
+00:16:26.035 --> 00:16:35.876
+Do we have a new sprint backlog? I think I don't know if we're supposed to make a new one or if we're just supposed to edit the one we already have.
+
+45 "Krushel, Cole" (2230285312)
+00:16:35.876 --> 00:16:39.356
+Okay.
+
+46 "Voynovich, Matthew" (879892224)
+00:16:39.356 --> 00:16:49.116
+I thought it's we're supposed to make a new one. Okay, then we might need to make a new one on github and just add the stuff, but I don't know if I have time to.
+
+47 "Krushel, Cole" (2230285312)
+00:16:49.116 --> 00:16:55.358
+Do that today. Okay I'll I'll just make the project and then we can add our.
+
+48 "Voynovich, Matthew" (879892224)
+00:16:55.358 --> 00:17:02.815
+Yeah. How are things whenever? Yeah, I I'll individually add to it. It's just, I wanna make sure.
+
+49 "Krushel, Cole" (2230285312)
+00:17:02.815 --> 00:17:06.497
+Sure I got the comp org homework done. Yeah.
+
+50 "Voynovich, Matthew" (879892224)
+00:17:06.497 --> 00:17:08.579
+Yeah.
+
+51 "Krushel, Cole" (2230285312)
+00:17:08.579 --> 00:17:12.637
+Yeah, i'm using the late day on that.
+
+52 "Voynovich, Matthew" (879892224)
+00:17:12.637 --> 00:17:20.634
+Well, and then it's long been like, it is very long. I'm on the 5th question.
+
+53 "Krushel, Cole" (2230285312)
+00:17:20.634 --> 00:17:23.238
+Okay.
+
+54 "Voynovich, Matthew" (879892224)
+00:17:23.238 --> 00:17:29.213
+Yeah, you're almost there. Yeah.
+
+55 "Hargreaves, Harry" (3276204544)
+00:17:29.213 --> 00:17:41.152
+Okay, I kinda gotta go. If there's anything like else if you guys like keep talking, I guess let me know.
+
+56 "Voynovich, Matthew" (879892224)
+00:17:41.152 --> 00:17:47.232
+If there's like I should do. Alright, I don't think I have anything else to say.
+
+57 "Ruan, Amanda" (3436701440)
+00:17:47.232 --> 00:17:57.574
+Unnecessarily. Not really but like I don't think we have to create like a new project like under the status.
+
+58 "Krushel, Cole" (2230285312)
+00:17:57.574 --> 00:18:00.034
+Or there's like iteration too, I think we'll use.
+
+59 "Ruan, Amanda" (3436701440)
+00:18:00.034 --> 00:18:06.273
+That as like our, but we already have like some tasks on there.
+
+60 "Voynovich, Matthew" (879892224)
+00:18:06.273 --> 00:18:13.315
+Sorry just add to the modify it over here. Okay, yeah, that works. I'll add to that the moment that.
+
+61 "Krushel, Cole" (2230285312)
+00:18:13.315 --> 00:18:13.964
+I'm done with.
+
+62 "Ruan, Amanda" (3436701440)
+00:18:13.964 --> 00:18:19.568
+The cardboard homework. Yeah, that's good.
+
+63 "Hargreaves, Harry" (3276204544)
+00:18:19.568 --> 00:18:23.172
+Okay.
+
+64 "Voynovich, Matthew" (879892224)
+00:18:23.172 --> 00:18:24.985
+I gotcha. All right.
+
+65 "Baimel, Jackson" (2978894848)
+00:18:24.985 --> 00:18:25.631
+Yes.
+
+66 "Voynovich, Matthew" (879892224)
+00:18:25.631 --> 00:18:36.756
+Alright, we can see you. Yeah, see you. Bye.

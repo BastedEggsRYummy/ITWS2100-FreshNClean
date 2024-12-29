@@ -1,0 +1,81 @@
+WEBVTT
+
+1 "Voynovich, Matthew" (4239389440)
+00:02:58.571 --> 00:03:19.460
+Since the others won't be coming I can just start talking. I ended up finishing, well, I got my database stuff back working for the, application, so I was working, I was resuming work on my stuff from Xamp and I got the.
+
+2 "Voynovich, Matthew" (4239389440)
+00:03:19.460 --> 00:03:46.530
+The profile picture and changing email functions done and then I'm implementing the history page right now currently or like, implementing like pushing data in. And then since I just the lab we just did, one of the changes I did for my actual lab, I had a pop up model for like if I clicked on an image and I was thinking that I would end up just putting something similar to that.
+
+3 "Voynovich, Matthew" (4239389440)
+00:03:46.530 --> 00:04:02.700
+For how I would implement the, like, blowing up of like the instructions and additional info for the history. Other than that I haven't got much out. I'll get the push request I'll probably have the push request or pull request done.
+
+4 "Voynovich, Matthew" (4239389440)
+00:04:02.700 --> 00:04:20.609
+For this weekend by tomorrow night and then I don't know I guess I'll just be finding smaller things to work on or I guess I'll I have to do the reviews still, but that's it.
+
+5 "Krushel, Cole" (3971991552)
+00:04:20.609 --> 00:04:37.919
+Yeah, I've been working on the getting the like driver and user views to sync up, how like when a, when a driver like updates the status, it's supposed to update the user's view as well. So they basically both of them have like a constant loop.
+
+6 "Krushel, Cole" (3971991552)
+00:04:37.919 --> 00:04:57.359
+Now and like that does work that like both sides like when the driver moves on to the next stage, it advances to the user as well. The only thing I think is left is to get the, yeah.
+
+7 "Krushel, Cole" (3971991552)
+00:04:57.359 --> 00:05:15.239
+Oh, you get the the history working because I gotta like keep track of all that information and the UI I guess they need to figure out how to display routes.
+
+8 "Krushel, Cole" (3971991552)
+00:05:15.239 --> 00:05:25.925
+That's been checking.
+
+9 "Hargreaves, Harry" (4145144320)
+00:05:25.925 --> 00:05:40.589
+This week I, I was reworking like the header and that footer, but I, so I also like made all the pages like PHP for the session data to display.
+
+10 "Hargreaves, Harry" (4145144320)
+00:05:40.589 --> 00:06:00.269
+If you're logged in or not, there was something else I wanted to change with the, also with the session data like if you're logged in or not, but I'm kind of forgetting right now and I mean I'll get that done by next meeting and also.
+
+11 "Hargreaves, Harry" (4145144320)
+00:06:00.269 --> 00:06:15.329
+Like I was also thinking about it and I kind of like, I wanted to propose some like colors or something for our website to make it like look better and also maybe like look through the UX UI stuff and like.
+
+12 "Hargreaves, Harry" (4145144320)
+00:06:15.329 --> 00:06:34.969
+Try to do some stuff from this last lab to make our website like look better other than just like the black and white that it currently is for next week as well and I'll probably send some like color stuff to see if like we can, if there's anything like our group likes.
+
+13 "Voynovich, Matthew" (4239389440)
+00:06:34.969 --> 00:06:38.067
+Sounds good.
+
+14 "Baimel, Jackson" (862912512)
+00:06:38.067 --> 00:07:02.869
+Alright, for me, I have been keeping up with the, the legal stuff. I'm like 90 % there on two or three more of them. We're just gonna do one big push between now and and next stand up. So staying tuned for that. Other than that, well that's pretty much all I'm doing, so that's all I got.
+
+15 "Voynovich, Matthew" (4239389440)
+00:07:02.869 --> 00:07:24.045
+Alright, sounds good. I don't have anything else to really add on if I come into any issues with something I'll say. But I think we're looking pretty good to finish this before the like project deadline.
+
+16 "Baimel, Jackson" (862912512)
+00:07:24.045 --> 00:07:28.746
+Yeah, NO, I think we're in a great spot.
+
+17 "Voynovich, Matthew" (4239389440)
+00:07:28.746 --> 00:07:33.865
+Alright, if that's it, I'll see you guys.
+
+18 "Krushel, Cole" (3971991552)
+00:07:33.865 --> 00:07:34.968
+Yeah.
+
+19 "Baimel, Jackson" (862912512)
+00:07:34.968 --> 00:07:35.604
+Jim.
+
+20 "Krushel, Cole" (3971991552)
+00:07:35.604 --> 00:07:41.268
+You guys. See you. Bye.
